@@ -1,8 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
-import Login from "@pages/Login.jsx";
+import LoginPage from "@pages/LoginPage.jsx";
 import NotFound from "@pages/NotFound.jsx";
-import Loader from "@components/Loader/Loader.jsx";
+// import Loader from "@components/Loader/Loader.jsx";
 
 const router = createBrowserRouter([
   {
@@ -12,7 +12,7 @@ const router = createBrowserRouter([
   },
   {
     path: "login",
-    element: <Login />,
+    element: <LoginPage />,
     // loader: LoginLoader,
   },
   //   {
