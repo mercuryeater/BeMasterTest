@@ -13,12 +13,7 @@ const router = createBrowserRouter([
   {
     path: "login",
     element: <LoginPage />,
-    // loader: LoginLoader,
   },
-  //   {
-  //     path: "*",
-  //     element: <NotFound />,
-  //   },
 ]);
 
 export default router;

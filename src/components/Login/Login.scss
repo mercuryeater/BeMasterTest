@@ -3,7 +3,13 @@
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  max-width: 400px;
+  max-width: 450px;
+
+  &__error {
+    color: rgb(255, 61, 61);
+    margin: 0;
+    margin-left: 5px;
+  }
 
   &__logo {
     object-fit: cover;
@@ -16,8 +22,10 @@
     margin: 20px;
     padding: 30px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     background-color: #23243c;
+    -webkit-box-shadow: 2px -1px 129px 5px rgba(46, 51, 126, 0.7);
+    -moz-box-shadow: 2px -1px 129px 5px rgba(46, 51, 126, 0.7);
+    box-shadow: 2px -1px 129px 5px rgba(46, 51, 126, 0.7);
   }
 
   &__form {
@@ -25,6 +33,7 @@
     flex-direction: column;
     justify-content: center;
     gap: 10px;
+    font-size: 19px;
 
     label {
       margin-left: 5px;
@@ -38,6 +47,7 @@
       border-radius: 10px;
       color: white;
       font-family: inherit;
+      font-size: 18px;
 
       &:focus {
         background-color: #0f101a;
@@ -58,6 +68,7 @@
       border-radius: 20px;
       padding: 10px 20px;
       font-weight: 600;
+      font-size: 19px;
       border: 1px solid transparent;
       cursor: pointer;
 
@@ -69,6 +80,31 @@
         border: 2px solid #23243c;
         outline: 3px solid rgb(255, 255, 255);
         background-color: rgb(230, 230, 230);
+      }
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  .login {
+    &__container {
+      padding: 0;
+      margin: 20px 10px;
+      background-color: transparent;
+      -webkit-box-shadow: 2px -1px 129px 5px transparent;
+      -moz-box-shadow: 2px -1px 129px 5px transparent;
+      box-shadow: 2px -1px 129px 5px transparent;
+    }
+
+    &__form {
+      font-size: 16px;
+
+      input {
+        font-size: inherit;
+      }
+
+      button {
+        font-size: inherit;
       }
     }
   }

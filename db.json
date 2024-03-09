@@ -1,262 +1,299 @@
 {
-  "comedies": [
+  "users": [
     {
-      "nombre": "El Día de la Marmota",
-      "año": 1993,
-      "descripcion": "Bill Murray interpreta a un meteorólogo mezquino atrapado en un bucle temporal, reviviendo el mismo día una y otra vez. La genialidad de la película radica en su ingenioso desarrollo del concepto, lleno de chistes brillantes y situaciones hilarantes."
+      "email": "usuario1@example.com",
+      "password": "pass1",
+      "categories": [
+        "comedies",
+        "children",
+        "animation",
+        "fantasy",
+        "documentary"
+      ]
     },
     {
-      "nombre": "Chicas Pesadas",
-      "año": 2004,
-      "descripcion": "Escrita por Tina Fey, esta comedia gira en torno a las dinámicas sociales en una escuela secundaria. Lindsay Lohan interpreta a una estudiante internacional que descubre la feroz jerarquía adolescente. La película es citable y hasta inspiró un musical de Broadway."
+      "email": "usuario2@example.com",
+      "password": "pass2",
+      "categories": [
+        "comedies",
+        "children",
+        "animation",
+        "fantasy",
+        "documentary"
+      ]
     },
     {
-      "nombre": "Vacaciones Familiares",
-      "año": 1983,
-      "descripcion": "Chevy Chase protagoniza esta película sobre un padre suburbano que persigue un sueño de vacaciones perfectas. Las desventuras cómicas que enfrenta su familia son inolvidables."
-    },
-    {
-      "nombre": "Los Cazafantasmas",
-      "año": 1984,
-      "descripcion": "Un grupo de científicos excéntricos se convierte en cazadores de fantasmas en esta comedia paranormal. Bill Murray, Dan Aykroyd y Harold Ramis lideran el elenco en esta aventura sobrenatural llena de risas."
-    },
-    {
-      "nombre": "Superbad",
-      "año": 2007,
-      "descripcion": "Dos amigos adolescentes intentan tener una última gran fiesta antes de graduarse. La película es una mezcla de humor irreverente y momentos conmovedores."
-    },
-    {
-      "nombre": "Annie Hall",
-      "año": 1977,
-      "descripcion": "Woody Allen dirige y protagoniza esta comedia romántica que explora las complejidades de las relaciones. Diane Keaton también brilla en esta película ganadora del Oscar."
-    },
-    {
-      "nombre": "La Vida de Brian",
-      "año": 1979,
-      "descripcion": "Monty Python nos trae esta sátira religiosa sobre un hombre confundido con el Mesías. Llena de humor absurdo y críticas sociales, es una joya de la comedia británica."
-    },
-    {
-      "nombre": "¿Dónde Está el Piloto?",
-      "año": 1980,
-      "descripcion": "Leslie Nielsen se roba la escena en esta parodia de películas de desastres aéreos. Su estilo de comedia absurda y slapstick es inolvidable."
-    },
-    {
-      "nombre": "Shaun of the Dead",
-      "año": 2004,
-      "descripcion": "Esta comedia de zombis dirigida por Edgar Wright combina horror y risas de manera magistral. Simon Pegg y Nick Frost lideran el elenco en esta película británica que se ha convertido en un clásico de culto."
-    },
-    {
-      "nombre": "El Gran Lebowski",
-      "año": 1998,
-      "descripcion": "Jeff Bridges interpreta al relajado \"Dude\" en esta comedia de los hermanos Coen. Con personajes excéntricos y diálogos memorables, es una película que ha ganado culto a lo largo de los años."
+      "email": "usuario3@example.com",
+      "password": "pass3",
+      "categories": [
+        "comedies",
+        "children",
+        "animation",
+        "fantasy",
+        "documentary"
+      ]
     }
   ],
-  "Horror": [
-    {
-      "nombre": "El Exorcista",
-      "año": 1973,
-      "descripcion": "Considerada por muchos como la mejor película de terror de todos los tiempos. Se centra en la historia de una niña poseída por el demonio y los intentos de un sacerdote para exorcizarla."
-    },
-    {
-      "nombre": "El Resplandor",
-      "año": 1980,
-      "descripcion": "Una obra maestra de Stanley Kubrick que te sumerge en los imposibles pasillos y habitaciones del hotel Overlook mientras te invita a perder la cabeza junto al desquiciado Jack Torrance en una pesadilla del más alto nivel."
-    },
-    {
-      "nombre": "Halloween",
-      "año": 1978,
-      "descripcion": "Un clásico de culto imperecedero dirigido por John Carpenter. Una mirada fantasmagórica sobre el mal más puro, encarnado en un gigantesco Michael Myers."
-    },
-    {
-      "nombre": "The Babadook",
-      "año": 2014,
-      "descripcion": "Una película que explora el terror psicológico y la relación madre-hijo. El misterioso libro del Babadook desencadena una serie de eventos aterradores."
-    },
-    {
-      "nombre": "El Orfanato",
-      "año": 2007,
-      "descripcion": "Una película española que combina elementos de misterio y horror sobrenatural. Una madre busca respuestas en un antiguo orfanato donde vivió su hijo adoptivo."
-    },
-    {
-      "nombre": "El Conjuro",
-      "año": 2013,
-      "descripcion": "Basada en casos reales de los investigadores paranormales Ed y Lorraine Warren. Una familia enfrenta una presencia maligna en su casa."
-    },
-    {
-      "nombre": "El Proyecto de la Bruja de Blair",
-      "año": 1999,
-      "descripcion": "Una película de metraje encontrado que sigue a un grupo de documentalistas mientras investigan la leyenda de la Bruja de Blair en un bosque aterrador."
-    },
-    {
-      "nombre": "La Autopsia de Jane Doe",
-      "año": 2016,
-      "descripcion": "Una película de horror que se desarrolla en una morgue. Los patólogos descubren secretos oscuros mientras realizan la autopsia de un cuerpo no identificado."
-    },
-    {
-      "nombre": "Psicosis",
-      "año": 1960,
-      "descripcion": "Un clásico de Alfred Hitchcock que sigue a una secretaria que se hospeda en un motel aislado, donde encuentra al perturbador Norman Bates."
-    },
-    {
-      "nombre": "El Silencio de los Corderos",
-      "año": 1991,
-      "descripcion": "Un thriller psicológico que presenta al brillante pero perturbado Dr. Hannibal Lecter. Una agente del FBI busca su ayuda para atrapar a otro asesino en serie."
-    }
-  ],
-  "Documentary": [
-    {
-      "nombre": "Shoah",
-      "año": 1985,
-      "descripcion": "Un documental monumental dirigido por Claude Lanzmann que examina el Holocausto a través de testimonios de sobrevivientes, testigos y perpetradores."
-    },
-    {
-      "nombre": "Capturing the Friedmans",
-      "año": 2003,
-      "descripcion": "Una obra clave dentro del documental criminal que explora los límites de la verdad, los claroscuros de la justicia y la destrucción de una familia debido a acusaciones de pederastia."
-    },
-    {
-      "nombre": "Líbranos del mal (Deliver Us From Evil)",
-      "año": 2006,
-      "descripcion": "Una pesadilla que narra la historia del padre Oliver O’Grady, quien violó a decenas de niños durante dos décadas, y cómo la Iglesia Católica encubrió sus crímenes."
-    },
-    {
-      "nombre": "Bowling for Columbine",
-      "año": 2002,
-      "descripcion": "Michael Moore aborda el tema del control de armas en EE. UU. con agilidad narrativa, humor corrosivo y un poder reivindicativo impactante."
-    },
-    {
-      "nombre": "My Octopus Teacher",
-      "año": 2020,
-      "descripcion": "Un documental emotivo sobre la relación entre un cineasta y un pulpo en las aguas de Sudáfrica."
-    },
-    {
-      "nombre": "El Agente Topo",
-      "año": 2020,
-      "descripcion": "Una película chilena que sigue a un detective privado de 83 años mientras investiga un hogar de ancianos en busca de maltrato."
-    },
-    {
-      "nombre": "Tell Me Who I Am",
-      "año": 2019,
-      "descripcion": "Un relato impactante sobre la memoria, la identidad y los secretos familiares."
-    },
-    {
-      "nombre": "A Secret Love",
-      "año": 2020,
-      "descripcion": "Una historia de amor duradera entre dos mujeres que mantuvieron su relación en secreto durante décadas."
-    },
-    {
-      "nombre": "El Silencio de Otros",
-      "año": 2018,
-      "descripcion": "Un documental español que aborda la lucha por la justicia y la memoria histórica de las víctimas del franquismo."
-    },
-    {
-      "nombre": "Shirkers",
-      "año": 2018,
-      "descripcion": "Una película de Singapur que explora la misteriosa desaparición de una película independiente rodada en los años 90."
-    }
-  ],
-  "Fantasy": [
-    {
-      "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
-      "año": 2001,
-      "descripcion": "La primera película de la trilogía épica basada en las novelas de J.R.R. Tolkien. Sigue la aventura de Frodo y su misión para destruir el Anillo Único."
-    },
-    {
-      "nombre": "Harry Potter y la Piedra Filosofal",
-      "año": 2001,
-      "descripcion": "El inicio de la saga de Harry Potter, donde descubre su verdadera identidad como mago y asiste a Hogwarts, la escuela de magia."
-    },
-    {
-      "nombre": "La Princesa Prometida",
-      "año": 1987,
-      "descripcion": "Una historia de amor, aventuras y duelos de espadas. Incluye piratas, princesas y un gigante llamado Fezzik."
-    },
-    {
-      "nombre": "Conan, el Bárbaro",
-      "año": 1982,
-      "descripcion": "Arnold Schwarzenegger interpreta a Conan, un guerrero en busca de venganza en un mundo lleno de magia y monstruos."
-    },
-    {
-      "nombre": "Star Wars: Episodio IV - Una Nueva Esperanza",
-      "año": 1977,
-      "descripcion": "La película que dio inicio a la legendaria saga de Star Wars. Una epopeya espacial con jedis, siths, naves espaciales y la Fuerza."
-    },
-    {
-      "nombre": "Los Cuentos de la Luna Pálida",
-      "año": 1953,
-      "descripcion": "Una obra maestra del cine japonés dirigida por Kenji Mizoguchi. Explora la relación entre el mundo real y el mundo de los espíritus."
-    },
-    {
-      "nombre": "La Montaña Sagrada",
-      "año": 1973,
-      "descripcion": "Una película surrealista de Alejandro Jodorowsky que sigue a un alquimista en busca de la inmortalidad."
-    },
-    {
-      "nombre": "El Laberinto del Fauno",
-      "año": 2006,
-      "descripcion": "Guillermo del Toro nos lleva a la España posguerra, donde una niña se encuentra con criaturas mágicas en un laberinto."
-    },
-    {
-      "nombre": "El Milagro de P. Tinto",
-      "año": 1998,
-      "descripcion": "Una comedia española que sigue las desventuras de P. Tinto y su búsqueda para tener un hijo."
-    },
-    {
-      "nombre": "Blancanieves",
-      "año": 2012,
-      "descripcion": "Una versión oscura y fantástica del cuento clásico de Blancanieves, dirigida por Pablo Berger."
-    }
-  ],
-  "Animation": [
-    {
-      "nombre": "El viaje de Chihiro",
-      "año": 2001,
-      "descripcion": "Una obra maestra de Hayao Miyazaki que nos sumerge en un mundo mágico lleno de criaturas y aventuras. Chihiro debe enfrentarse a desafíos sobrenaturales para salvar a sus padres y regresar al mundo real."
-    },
-    {
-      "nombre": "El rey león",
-      "año": 1994,
-      "descripcion": "Un clásico de Disney que sigue la historia de Simba, un joven león que debe enfrentarse a su destino y reclamar su lugar como rey de la selva. Con una banda sonora inolvidable y personajes entrañables."
-    },
-    {
-      "nombre": "La tumba de las luciérnagas",
-      "año": 1988,
-      "descripcion": "Una película japonesa que narra la conmovedora historia de dos hermanos durante la Segunda Guerra Mundial. Una obra maestra que combina belleza visual con una tristeza profunda."
-    },
-    {
-      "nombre": "WALL-E",
-      "año": 2008,
-      "descripcion": "Una película de Pixar que nos lleva al futuro, donde la Tierra está desolada y llena de basura. WALL-E, un pequeño robot, descubre el amor y la esperanza mientras busca un nuevo hogar para la humanidad."
-    },
-    {
-      "nombre": "Toy Story",
-      "año": 1995,
-      "descripcion": "La primera película completamente animada por computadora. Woody y Buzz Lightyear son juguetes que cobran vida cuando los humanos no los ven. Una historia sobre la amistad y la importancia de ser uno mismo."
-    },
-    {
-      "nombre": "Buscando a Nemo",
-      "año": 2003,
-      "descripcion": "Marlin, un pez payaso, emprende un viaje épico para encontrar a su hijo Nemo, quien fue capturado por un buceador. Una aventura submarina llena de humor y emociones."
-    },
-    {
-      "nombre": "Ratatouille",
-      "año": 2007,
-      "descripcion": "Remy, una rata con un talento culinario excepcional, sueña con convertirse en un gran chef. Una película que celebra la pasión por la comida y la superación de obstáculos."
-    },
-    {
-      "nombre": "Up",
-      "año": 2009,
-      "descripcion": "Carl Fredricksen, un anciano viudo, decide cumplir su sueño de viajar a Sudamérica llevando su casa volando con globos. Una película emotiva sobre la aventura y la amistad."
-    },
-    {
-      "nombre": "Zootrópolis",
-      "año": 2016,
-      "descripcion": "Judy Hopps, una coneja policía, se une a un astuto zorro llamado Nick Wilde para resolver un misterio en la ciudad de Zootrópolis. Una película que aborda temas de prejuicios y diversidad."
-    },
-    {
-      "nombre": "Coco",
-      "año": 2017,
-      "descripcion": "Una celebración de la cultura mexicana y el Día de los Muertos. Miguel, un niño apasionado por la música, viaja al mundo de los muertos para descubrir sus raíces familiares."
-    }
-  ]
+  "categories": {
+    "comedies": [
+      {
+        "nombre": "El Día de la Marmota",
+        "año": 1993,
+        "descripcion": "Bill Murray interpreta a un meteorólogo mezquino atrapado en un bucle temporal, reviviendo el mismo día una y otra vez. La genialidad de la película radica en su ingenioso desarrollo del concepto, lleno de chistes brillantes y situaciones hilarantes."
+      },
+      {
+        "nombre": "Chicas Pesadas",
+        "año": 2004,
+        "descripcion": "Escrita por Tina Fey, esta comedia gira en torno a las dinámicas sociales en una escuela secundaria. Lindsay Lohan interpreta a una estudiante internacional que descubre la feroz jerarquía adolescente. La película es citable y hasta inspiró un musical de Broadway."
+      },
+      {
+        "nombre": "Vacaciones Familiares",
+        "año": 1983,
+        "descripcion": "Chevy Chase protagoniza esta película sobre un padre suburbano que persigue un sueño de vacaciones perfectas. Las desventuras cómicas que enfrenta su familia son inolvidables."
+      },
+      {
+        "nombre": "Los Cazafantasmas",
+        "año": 1984,
+        "descripcion": "Un grupo de científicos excéntricos se convierte en cazadores de fantasmas en esta comedia paranormal. Bill Murray, Dan Aykroyd y Harold Ramis lideran el elenco en esta aventura sobrenatural llena de risas."
+      },
+      {
+        "nombre": "Superbad",
+        "año": 2007,
+        "descripcion": "Dos amigos adolescentes intentan tener una última gran fiesta antes de graduarse. La película es una mezcla de humor irreverente y momentos conmovedores."
+      },
+      {
+        "nombre": "Annie Hall",
+        "año": 1977,
+        "descripcion": "Woody Allen dirige y protagoniza esta comedia romántica que explora las complejidades de las relaciones. Diane Keaton también brilla en esta película ganadora del Oscar."
+      },
+      {
+        "nombre": "La Vida de Brian",
+        "año": 1979,
+        "descripcion": "Monty Python nos trae esta sátira religiosa sobre un hombre confundido con el Mesías. Llena de humor absurdo y críticas sociales, es una joya de la comedia británica."
+      },
+      {
+        "nombre": "¿Dónde Está el Piloto?",
+        "año": 1980,
+        "descripcion": "Leslie Nielsen se roba la escena en esta parodia de películas de desastres aéreos. Su estilo de comedia absurda y slapstick es inolvidable."
+      },
+      {
+        "nombre": "Shaun of the Dead",
+        "año": 2004,
+        "descripcion": "Esta comedia de zombis dirigida por Edgar Wright combina horror y risas de manera magistral. Simon Pegg y Nick Frost lideran el elenco en esta película británica que se ha convertido en un clásico de culto."
+      },
+      {
+        "nombre": "El Gran Lebowski",
+        "año": 1998,
+        "descripcion": "Jeff Bridges interpreta al relajado \"Dude\" en esta comedia de los hermanos Coen. Con personajes excéntricos y diálogos memorables, es una película que ha ganado culto a lo largo de los años."
+      }
+    ],
+    "horror": [
+      {
+        "nombre": "El Exorcista",
+        "año": 1973,
+        "descripcion": "Considerada por muchos como la mejor película de terror de todos los tiempos. Se centra en la historia de una niña poseída por el demonio y los intentos de un sacerdote para exorcizarla."
+      },
+      {
+        "nombre": "El Resplandor",
+        "año": 1980,
+        "descripcion": "Una obra maestra de Stanley Kubrick que te sumerge en los imposibles pasillos y habitaciones del hotel Overlook mientras te invita a perder la cabeza junto al desquiciado Jack Torrance en una pesadilla del más alto nivel."
+      },
+      {
+        "nombre": "Halloween",
+        "año": 1978,
+        "descripcion": "Un clásico de culto imperecedero dirigido por John Carpenter. Una mirada fantasmagórica sobre el mal más puro, encarnado en un gigantesco Michael Myers."
+      },
+      {
+        "nombre": "The Babadook",
+        "año": 2014,
+        "descripcion": "Una película que explora el terror psicológico y la relación madre-hijo. El misterioso libro del Babadook desencadena una serie de eventos aterradores."
+      },
+      {
+        "nombre": "El Orfanato",
+        "año": 2007,
+        "descripcion": "Una película española que combina elementos de misterio y horror sobrenatural. Una madre busca respuestas en un antiguo orfanato donde vivió su hijo adoptivo."
+      },
+      {
+        "nombre": "El Conjuro",
+        "año": 2013,
+        "descripcion": "Basada en casos reales de los investigadores paranormales Ed y Lorraine Warren. Una familia enfrenta una presencia maligna en su casa."
+      },
+      {
+        "nombre": "El Proyecto de la Bruja de Blair",
+        "año": 1999,
+        "descripcion": "Una película de metraje encontrado que sigue a un grupo de documentalistas mientras investigan la leyenda de la Bruja de Blair en un bosque aterrador."
+      },
+      {
+        "nombre": "La Autopsia de Jane Doe",
+        "año": 2016,
+        "descripcion": "Una película de horror que se desarrolla en una morgue. Los patólogos descubren secretos oscuros mientras realizan la autopsia de un cuerpo no identificado."
+      },
+      {
+        "nombre": "Psicosis",
+        "año": 1960,
+        "descripcion": "Un clásico de Alfred Hitchcock que sigue a una secretaria que se hospeda en un motel aislado, donde encuentra al perturbador Norman Bates."
+      },
+      {
+        "nombre": "El Silencio de los Corderos",
+        "año": 1991,
+        "descripcion": "Un thriller psicológico que presenta al brillante pero perturbado Dr. Hannibal Lecter. Una agente del FBI busca su ayuda para atrapar a otro asesino en serie."
+      }
+    ],
+    "documentary": [
+      {
+        "nombre": "Shoah",
+        "año": 1985,
+        "descripcion": "Un documental monumental dirigido por Claude Lanzmann que examina el Holocausto a través de testimonios de sobrevivientes, testigos y perpetradores."
+      },
+      {
+        "nombre": "Capturing the Friedmans",
+        "año": 2003,
+        "descripcion": "Una obra clave dentro del documental criminal que explora los límites de la verdad, los claroscuros de la justicia y la destrucción de una familia debido a acusaciones de pederastia."
+      },
+      {
+        "nombre": "Líbranos del mal (Deliver Us From Evil)",
+        "año": 2006,
+        "descripcion": "Una pesadilla que narra la historia del padre Oliver O’Grady, quien violó a decenas de niños durante dos décadas, y cómo la Iglesia Católica encubrió sus crímenes."
+      },
+      {
+        "nombre": "Bowling for Columbine",
+        "año": 2002,
+        "descripcion": "Michael Moore aborda el tema del control de armas en EE. UU. con agilidad narrativa, humor corrosivo y un poder reivindicativo impactante."
+      },
+      {
+        "nombre": "My Octopus Teacher",
+        "año": 2020,
+        "descripcion": "Un documental emotivo sobre la relación entre un cineasta y un pulpo en las aguas de Sudáfrica."
+      },
+      {
+        "nombre": "El Agente Topo",
+        "año": 2020,
+        "descripcion": "Una película chilena que sigue a un detective privado de 83 años mientras investiga un hogar de ancianos en busca de maltrato."
+      },
+      {
+        "nombre": "Tell Me Who I Am",
+        "año": 2019,
+        "descripcion": "Un relato impactante sobre la memoria, la identidad y los secretos familiares."
+      },
+      {
+        "nombre": "A Secret Love",
+        "año": 2020,
+        "descripcion": "Una historia de amor duradera entre dos mujeres que mantuvieron su relación en secreto durante décadas."
+      },
+      {
+        "nombre": "El Silencio de Otros",
+        "año": 2018,
+        "descripcion": "Un documental español que aborda la lucha por la justicia y la memoria histórica de las víctimas del franquismo."
+      },
+      {
+        "nombre": "Shirkers",
+        "año": 2018,
+        "descripcion": "Una película de Singapur que explora la misteriosa desaparición de una película independiente rodada en los años 90."
+      }
+    ],
+    "fantasy": [
+      {
+        "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+        "año": 2001,
+        "descripcion": "La primera película de la trilogía épica basada en las novelas de J.R.R. Tolkien. Sigue la aventura de Frodo y su misión para destruir el Anillo Único."
+      },
+      {
+        "nombre": "Harry Potter y la Piedra Filosofal",
+        "año": 2001,
+        "descripcion": "El inicio de la saga de Harry Potter, donde descubre su verdadera identidad como mago y asiste a Hogwarts, la escuela de magia."
+      },
+      {
+        "nombre": "La Princesa Prometida",
+        "año": 1987,
+        "descripcion": "Una historia de amor, aventuras y duelos de espadas. Incluye piratas, princesas y un gigante llamado Fezzik."
+      },
+      {
+        "nombre": "Conan, el Bárbaro",
+        "año": 1982,
+        "descripcion": "Arnold Schwarzenegger interpreta a Conan, un guerrero en busca de venganza en un mundo lleno de magia y monstruos."
+      },
+      {
+        "nombre": "Star Wars: Episodio IV - Una Nueva Esperanza",
+        "año": 1977,
+        "descripcion": "La película que dio inicio a la legendaria saga de Star Wars. Una epopeya espacial con jedis, siths, naves espaciales y la Fuerza."
+      },
+      {
+        "nombre": "Los Cuentos de la Luna Pálida",
+        "año": 1953,
+        "descripcion": "Una obra maestra del cine japonés dirigida por Kenji Mizoguchi. Explora la relación entre el mundo real y el mundo de los espíritus."
+      },
+      {
+        "nombre": "La Montaña Sagrada",
+        "año": 1973,
+        "descripcion": "Una película surrealista de Alejandro Jodorowsky que sigue a un alquimista en busca de la inmortalidad."
+      },
+      {
+        "nombre": "El Laberinto del Fauno",
+        "año": 2006,
+        "descripcion": "Guillermo del Toro nos lleva a la España posguerra, donde una niña se encuentra con criaturas mágicas en un laberinto."
+      },
+      {
+        "nombre": "El Milagro de P. Tinto",
+        "año": 1998,
+        "descripcion": "Una comedia española que sigue las desventuras de P. Tinto y su búsqueda para tener un hijo."
+      },
+      {
+        "nombre": "Blancanieves",
+        "año": 2012,
+        "descripcion": "Una versión oscura y fantástica del cuento clásico de Blancanieves, dirigida por Pablo Berger."
+      }
+    ],
+    "animation": [
+      {
+        "nombre": "El viaje de Chihiro",
+        "año": 2001,
+        "descripcion": "Una obra maestra de Hayao Miyazaki que nos sumerge en un mundo mágico lleno de criaturas y aventuras. Chihiro debe enfrentarse a desafíos sobrenaturales para salvar a sus padres y regresar al mundo real."
+      },
+      {
+        "nombre": "El rey león",
+        "año": 1994,
+        "descripcion": "Un clásico de Disney que sigue la historia de Simba, un joven león que debe enfrentarse a su destino y reclamar su lugar como rey de la selva. Con una banda sonora inolvidable y personajes entrañables."
+      },
+      {
+        "nombre": "La tumba de las luciérnagas",
+        "año": 1988,
+        "descripcion": "Una película japonesa que narra la conmovedora historia de dos hermanos durante la Segunda Guerra Mundial. Una obra maestra que combina belleza visual con una tristeza profunda."
+      },
+      {
+        "nombre": "WALL-E",
+        "año": 2008,
+        "descripcion": "Una película de Pixar que nos lleva al futuro, donde la Tierra está desolada y llena de basura. WALL-E, un pequeño robot, descubre el amor y la esperanza mientras busca un nuevo hogar para la humanidad."
+      },
+      {
+        "nombre": "Toy Story",
+        "año": 1995,
+        "descripcion": "La primera película completamente animada por computadora. Woody y Buzz Lightyear son juguetes que cobran vida cuando los humanos no los ven. Una historia sobre la amistad y la importancia de ser uno mismo."
+      },
+      {
+        "nombre": "Buscando a Nemo",
+        "año": 2003,
+        "descripcion": "Marlin, un pez payaso, emprende un viaje épico para encontrar a su hijo Nemo, quien fue capturado por un buceador. Una aventura submarina llena de humor y emociones."
+      },
+      {
+        "nombre": "Ratatouille",
+        "año": 2007,
+        "descripcion": "Remy, una rata con un talento culinario excepcional, sueña con convertirse en un gran chef. Una película que celebra la pasión por la comida y la superación de obstáculos."
+      },
+      {
+        "nombre": "Up",
+        "año": 2009,
+        "descripcion": "Carl Fredricksen, un anciano viudo, decide cumplir su sueño de viajar a Sudamérica llevando su casa volando con globos. Una película emotiva sobre la aventura y la amistad."
+      },
+      {
+        "nombre": "Zootrópolis",
+        "año": 2016,
+        "descripcion": "Judy Hopps, una coneja policía, se une a un astuto zorro llamado Nick Wilde para resolver un misterio en la ciudad de Zootrópolis. Una película que aborda temas de prejuicios y diversidad."
+      },
+      {
+        "nombre": "Coco",
+        "año": 2017,
+        "descripcion": "Una celebración de la cultura mexicana y el Día de los Muertos. Miguel, un niño apasionado por la música, viaja al mundo de los muertos para descubrir sus raíces familiares."
+      }
+    ]
+  }
 }
