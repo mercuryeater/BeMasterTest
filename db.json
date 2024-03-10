@@ -3,23 +3,17 @@
     {
       "email": "usuario1@example.com",
       "password": "pass1",
-      "categories": [
-        "comedies",
-        "children",
-        "animation",
-        "fantasy",
-        "documentary"
-      ]
+      "categories": ["comedies", "drama", "animation", "terror", "documentary"]
     },
     {
       "email": "usuario2@example.com",
       "password": "pass2",
       "categories": [
-        "comedies",
+        "musical",
         "children",
-        "animation",
+        "documentary",
         "fantasy",
-        "documentary"
+        "comedies"
       ]
     },
     {
@@ -37,277 +31,1002 @@
   "categories": {
     "comedies": [
       {
-        "banner": "./src/assets/banners/comedie.png"
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/comedie_knzp5i.jpg?_s=public-apps"
       },
       {
         "nombre": "El Día de la Marmota",
         "año": 1993,
-        "descripcion": "Bill Murray interpreta a un meteorólogo mezquino atrapado en un bucle temporal, reviviendo el mismo día una y otra vez. La genialidad de la película radica en su ingenioso desarrollo del concepto, lleno de chistes brillantes y situaciones hilarantes."
+        "director": "Harold Ramis",
+        "descripcion": "Bill Murray interpreta a un meteorólogo mezquino atrapado en un bucle temporal, reviviendo el mismo día una y otra vez. La genialidad de la película radica en su ingenioso desarrollo del concepto, lleno de chistes brillantes y situaciones hilarantes. La película es dirigida por Harold Ramis.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/groundhogday.24x36_480x.progressive.jpg?v=1707501927",
+        "trailer": "https://www.youtube.com/watch?v=tSVeDx9fk60"
       },
       {
         "nombre": "Chicas Pesadas",
         "año": 2004,
-        "descripcion": "Escrita por Tina Fey, esta comedia gira en torno a las dinámicas sociales en una escuela secundaria. Lindsay Lohan interpreta a una estudiante internacional que descubre la feroz jerarquía adolescente. La película es citable y hasta inspiró un musical de Broadway."
+        "director": "Mark Waters",
+        "descripcion": "Escrita por Tina Fey, esta comedia gira en torno a las dinámicas sociales en una escuela secundaria. Lindsay Lohan interpreta a una estudiante internacional que descubre la feroz jerarquía adolescente. La película es citable y hasta inspiró un musical de Broadway. Dirigida por Mark Waters.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/mean_girls_5f88305d-df95-4bec-a2d3-1b8874f3e504_480x.progressive.jpg?v=1709670708",
+        "trailer": "https://www.youtube.com/watch?v=_jIzqk6QCDY"
       },
       {
         "nombre": "Vacaciones Familiares",
         "año": 1983,
-        "descripcion": "Chevy Chase protagoniza esta película sobre un padre suburbano que persigue un sueño de vacaciones perfectas. Las desventuras cómicas que enfrenta su familia son inolvidables."
+        "director": "Harold Ramis",
+        "descripcion": "Chevy Chase protagoniza esta película sobre un padre suburbano que persigue un sueño de vacaciones perfectas. Las desventuras cómicas que enfrenta su familia son inolvidables. Dirigida por Harold Ramis.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/VACATION_480x.progressive.jpg?v=1704486087",
+        "trailer": "https://www.youtube.com/watch?v=_KWLcX16Gx4"
       },
       {
         "nombre": "Los Cazafantasmas",
         "año": 1984,
-        "descripcion": "Un grupo de científicos excéntricos se convierte en cazadores de fantasmas en esta comedia paranormal. Bill Murray, Dan Aykroyd y Harold Ramis lideran el elenco en esta aventura sobrenatural llena de risas."
+        "director": "Ivan Reitman",
+        "descripcion": "Un grupo de científicos excéntricos se convierte en cazadores de fantasmas en esta comedia paranormal. Bill Murray, Dan Aykroyd y Harold Ramis lideran el elenco en esta aventura sobrenatural llena de risas. Dirigida por Ivan Reitman.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/Ghostbusters.103027_480x.progressive.jpg?v=1707500447",
+        "trailer": "https://www.youtube.com/watch?v=vntAEVjPBzQ"
       },
       {
         "nombre": "Superbad",
         "año": 2007,
-        "descripcion": "Dos amigos adolescentes intentan tener una última gran fiesta antes de graduarse. La película es una mezcla de humor irreverente y momentos conmovedores."
+        "director": "Greg Mottola",
+        "descripcion": "Dos amigos adolescentes intentan tener una última gran fiesta antes de graduarse. La película es una mezcla de humor irreverente y momentos conmovedores. Dirigida por Greg Mottola.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/6955ab276a50c8fa3c682af44cc9ecd1_cc7c9055-427b-4bd4-9565-72dd8024eb93_480x.progressive.jpg?v=1707342797",
+        "trailer": "https://www.youtube.com/watch?v=MNpoTxeydiY"
       },
       {
         "nombre": "Annie Hall",
         "año": 1977,
-        "descripcion": "Woody Allen dirige y protagoniza esta comedia romántica que explora las complejidades de las relaciones. Diane Keaton también brilla en esta película ganadora del Oscar."
+        "director": "Woody Allen",
+        "descripcion": "Woody Allen dirige y protagoniza esta comedia romántica que explora las complejidades de las relaciones. Diane Keaton también brilla en esta película ganadora del Oscar. Dirigida por Woody Allen.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/anniehall.af_480x.progressive.jpg?v=1626206245g",
+        "trailer": "https://www.youtube.com/watch?v=WT_xpFZe20A"
       },
       {
         "nombre": "La Vida de Brian",
         "año": 1979,
-        "descripcion": "Monty Python nos trae esta sátira religiosa sobre un hombre confundido con el Mesías. Llena de humor absurdo y críticas sociales, es una joya de la comedia británica."
+        "director": "Terry Jones",
+        "descripcion": "Monty Python nos trae esta sátira religiosa sobre un hombre confundido con el Mesías. Llena de humor absurdo y críticas sociales, es una joya de la comedia británica. Dirigida por Terry Jones.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/scan002_05317f8d-3df6-4c82-ab1b-3b58c283a9f4_480x.progressive.jpg?v=1709667588",
+        "trailer": "https://www.youtube.com/watch?v=JUxii2nG6yw"
       },
       {
         "nombre": "¿Dónde Está el Piloto?",
         "año": 1980,
-        "descripcion": "Leslie Nielsen se roba la escena en esta parodia de películas de desastres aéreos. Su estilo de comedia absurda y slapstick es inolvidable."
+        "director": "Jim Abrahams, David Zucker, Jerry Zucker",
+        "descripcion": "Leslie Nielsen se roba la escena en esta parodia de películas de desastres aéreos. Su estilo de comedia absurda y slapstick es inolvidable. Dirigida por Jim Abrahams, David Zucker y Jerry Zucker.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/c256dbd31d3de860c889dbc188c74667_b6caab40-c94c-40f4-968e-e5d79a5f995a_480x.progressive.jpg?v=1573591367",
+        "trailer": "https://www.youtube.com/watch?v=yqLPOCrL7oU"
       },
       {
         "nombre": "Shaun of the Dead",
         "año": 2004,
-        "descripcion": "Esta comedia de zombis dirigida por Edgar Wright combina horror y risas de manera magistral. Simon Pegg y Nick Frost lideran el elenco en esta película británica que se ha convertido en un clásico de culto."
+        "director": "Edgar Wright",
+        "descripcion": "Esta comedia de zombis dirigida por Edgar Wright combina horror y risas de manera magistral. Simon Pegg y Nick Frost lideran el elenco en esta película británica que se ha convertido en un clásico de culto. Dirigida por Edgar Wright.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/shaunofthedead.mpw.124626_480x.progressive.jpg?v=1709821802",
+        "trailer": "https://www.youtube.com/watch?v=OMitSKT-u_k"
       },
       {
         "nombre": "El Gran Lebowski",
         "año": 1998,
-        "descripcion": "Jeff Bridges interpreta al relajado \"Dude\" en esta comedia de los hermanos Coen. Con personajes excéntricos y diálogos memorables, es una película que ha ganado culto a lo largo de los años."
+        "director": "Joel Coen, Ethan Coen",
+        "descripcion": "Jeff Bridges interpreta al relajado \"Dude\" en esta comedia de los hermanos Coen. Con personajes excéntricos y diálogos memorables, es una película que ha ganado culto a lo largo de los años. Dirigida por Joel Coen.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/d9636a89e65a7de4bac82fbb300e9b8e_008c6b0d-bedc-4e4e-b6e3-090629c6e47f_480x.progressive.jpg?v=1573592638",
+        "trailer": "https://www.youtube.com/watch?v="
+      },
+      {
+        "nombre": "Ferris Bueller's Day Off",
+        "año": 1986,
+        "director": "John Hughes",
+        "descripcion": "Esta clásica comedia adolescente sigue a Ferris Bueller mientras finge estar enfermo para faltar a la escuela y embarcarse en una aventura épica en la ciudad de Chicago. Dirigida por John Hughes, la película es un tributo a la juventud y la libertad.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/2aa7b728ed1b3aa0d6db8d3f60602b75_4b5fb6b5-4748-4ea6-8839-f450f37d22b2_480x.progressive.jpg?v=1573618738",
+        "trailer": "https://www.youtube.com/watch?v=D6gABQFR94U"
+      },
+      {
+        "nombre": "La La Land",
+        "año": 2016,
+        "director": "Damien Chazelle",
+        "descripcion": "Esta moderna comedia musical sigue la historia de amor entre un pianista de jazz y una aspirante a actriz en Los Ángeles. Con una mezcla de romance, música y baile, la película cautiva al espectador con su encanto nostálgico. Dirigida por Damien Chazelle.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/LaLaLand.24x36_480x.progressive.jpg?v=1708547804",
+        "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+      },
+      {
+        "nombre": "The Hangover",
+        "año": 2009,
+        "director": "Todd Phillips",
+        "descripcion": "Esta comedia sigue a un grupo de amigos que se despiertan después de una noche de fiesta en Las Vegas con resacas épicas y sin recuerdo de lo que sucedió. La búsqueda para encontrar al novio desaparecido de uno de ellos lleva a situaciones cómicas y absurdas. Dirigida por Todd Phillips.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/the-hangover_ffb1b0c5_cf407729-c8e4-4119-9b5e-155c466f83f9_480x.progressive.jpg?v=1709824544",
+        "trailer": "https://www.youtube.com/watch?v=tcdUhdOlz9M"
+      },
+      {
+        "nombre": "Tropic Thunder",
+        "año": 2008,
+        "director": "Ben Stiller",
+        "descripcion": "Esta comedia satírica sigue a un grupo de actores que se encuentran en medio de una guerra real mientras filman una película sobre la guerra en Vietnam. Llena de humor absurdo y parodias, la película ofrece una mirada hilarante al mundo del cine de Hollywood. Dirigida por Ben Stiller.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/2c4c6d9664cfed59b284d95c61ce499c_b80c6942-c4b0-4f38-a647-06d03842c7db_480x.progressive.jpg?v=1573585182",
+        "trailer": "https://www.youtube.com/watch?v=T-6YhRZowgc"
+      },
+      {
+        "nombre": "The Grand Budapest Hotel",
+        "año": 2014,
+        "director": "Wes Anderson",
+        "descripcion": "Esta comedia visualmente impresionante cuenta la historia de un conserje legendario en un famoso hotel europeo y su amistad con un joven empleado. Llena de personajes excéntricos y situaciones extravagantes, la película es una obra maestra del estilo único de Wes Anderson. Dirigida por Wes Anderson.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/44b26f88e0fb3f1bf0a0660c099b8b19_b27d3a0c-9867-4ef1-a59d-f5304521c18d_480x.progressive.jpg?v=1573594939",
+        "trailer": "https://www.youtube.com/watch?v=1Fg5iWmQjwk"
       }
     ],
-    "horror": [
+    "terror": [
       {
-        "banner": "./src/assets/banners/horror.png"
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/horror_jreubu.jpg?_s=public-apps"
       },
       {
         "nombre": "El Exorcista",
         "año": 1973,
-        "descripcion": "Considerada por muchos como la mejor película de terror de todos los tiempos. Se centra en la historia de una niña poseída por el demonio y los intentos de un sacerdote para exorcizarla."
+        "director": "William Friedkin",
+        "descripcion": "Considerada por muchos como la mejor película de terror de todos los tiempos, 'El Exorcista' sigue la historia de una niña poseída por el demonio y los desesperados intentos de un sacerdote para exorcizarla. Dirigida por William Friedkin.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/51eadd844c8c362c58e30e3545936d1c_08f0d111-9fb3-4cc0-bca5-65446f37ea17_480x.progressive.jpg?v=1573616005",
+        "trailer": "https://www.youtube.com/watch?v=YDGw1MTEe9k"
       },
       {
         "nombre": "El Resplandor",
         "año": 1980,
-        "descripcion": "Una obra maestra de Stanley Kubrick que te sumerge en los imposibles pasillos y habitaciones del hotel Overlook mientras te invita a perder la cabeza junto al desquiciado Jack Torrance en una pesadilla del más alto nivel."
+        "director": "Stanley Kubrick",
+        "descripcion": "Una obra maestra de Stanley Kubrick, 'El Resplandor' te sumerge en los imposibles pasillos y habitaciones del hotel Overlook mientras te invita a perder la cabeza junto al desquiciado Jack Torrance en una pesadilla del más alto nivel. Dirigida por Stanley Kubrick.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/shining2_480x.progressive.jpg?v=1632312188",
+        "trailer": "https://www.youtube.com/watch?v=5Cb3ik6zP2I"
       },
       {
         "nombre": "Halloween",
         "año": 1978,
-        "descripcion": "Un clásico de culto imperecedero dirigido por John Carpenter. Una mirada fantasmagórica sobre el mal más puro, encarnado en un gigantesco Michael Myers."
+        "director": "John Carpenter",
+        "descripcion": "Un clásico de culto imperecedero dirigido por John Carpenter, 'Halloween' ofrece una mirada fantasmagórica sobre el mal más puro, encarnado en un gigantesco Michael Myers. Dirigida por John Carpenter.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/halloween.24x36_480x.progressive.jpg?v=1708451691",
+        "trailer": "https://www.youtube.com/watch?v=xHuOtLTQ_1I"
       },
       {
         "nombre": "The Babadook",
         "año": 2014,
-        "descripcion": "Una película que explora el terror psicológico y la relación madre-hijo. El misterioso libro del Babadook desencadena una serie de eventos aterradores."
+        "director": "Jennifer Kent",
+        "descripcion": "Una película que explora el terror psicológico y la relación madre-hijo, 'The Babadook' presenta el misterioso libro del Babadook que desencadena una serie de eventos aterradores. Dirigida por Jennifer Kent.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=szaLnKNWC-U"
       },
       {
         "nombre": "El Orfanato",
         "año": 2007,
-        "descripcion": "Una película española que combina elementos de misterio y horror sobrenatural. Una madre busca respuestas en un antiguo orfanato donde vivió su hijo adoptivo."
+        "director": "J.A. Bayona",
+        "descripcion": "Una película española que combina elementos de misterio y horror sobrenatural, 'El Orfanato' sigue a una madre en busca de respuestas en un antiguo orfanato donde vivió su hijo adoptivo. Dirigida por J.A. Bayona.",
+        "poster": "https://static.displate.com/857x1200/displate/2020-04-29/5fc00df79f401537da11c2c36b35cd40_c4a4a1d1698a9d52637998b2ed31e559.jpg",
+        "trailer": "https://www.youtube.com/watch?v=b3GgARokrnQ"
       },
       {
         "nombre": "El Conjuro",
         "año": 2013,
-        "descripcion": "Basada en casos reales de los investigadores paranormales Ed y Lorraine Warren. Una familia enfrenta una presencia maligna en su casa."
+        "director": "James Wan",
+        "descripcion": "Basada en casos reales de los investigadores paranormales Ed y Lorraine Warren, 'El Conjuro' sigue a una familia enfrentando una presencia maligna en su casa. Dirigida por James Wan.",
+        "poster": "https://m.media-amazon.com/images/I/81yAfVk+7UL._AC_UF894,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=KyA9AtUOqRM"
       },
       {
-        "nombre": "El Proyecto de la Bruja de Blair",
-        "año": 1999,
-        "descripcion": "Una película de metraje encontrado que sigue a un grupo de documentalistas mientras investigan la leyenda de la Bruja de Blair en un bosque aterrador."
-      },
-      {
-        "nombre": "La Autopsia de Jane Doe",
+        "nombre": "El Conjuro 2",
         "año": 2016,
-        "descripcion": "Una película de horror que se desarrolla en una morgue. Los patólogos descubren secretos oscuros mientras realizan la autopsia de un cuerpo no identificado."
+        "director": "James Wan",
+        "descripcion": "Continuando la historia de los investigadores paranormales Ed y Lorraine Warren, 'El Conjuro 2' sigue sus esfuerzos para ayudar a una familia enfrentando fenómenos paranormales en Londres. Dirigida por James Wan.",
+        "poster": "https://m.media-amazon.com/images/I/71o0k4DCkUL._AC_UF894,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=VFsmuRPClr4"
       },
       {
-        "nombre": "Psicosis",
-        "año": 1960,
-        "descripcion": "Un clásico de Alfred Hitchcock que sigue a una secretaria que se hospeda en un motel aislado, donde encuentra al perturbador Norman Bates."
+        "nombre": "It",
+        "año": 2017,
+        "director": "Andy Muschietti",
+        "descripcion": "'It' adapta la famosa novela de Stephen King, siguiendo a un grupo de niños que enfrentan sus peores miedos cuando se enfrentan a Pennywise, el payaso aterrador que aterroriza su ciudad. Dirigida por Andy Muschietti.",
+        "poster": "https://m.media-amazon.com/images/I/51NB383CKkL._AC_SL1200_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=xKJmEC5ieOk"
       },
       {
-        "nombre": "El Silencio de los Corderos",
-        "año": 1991,
-        "descripcion": "Un thriller psicológico que presenta al brillante pero perturbado Dr. Hannibal Lecter. Una agente del FBI busca su ayuda para atrapar a otro asesino en serie."
-      }
-    ],
-    "documentary": [
-      {
-        "banner": "./src/assets/banners/documentary.png"
-      },
-      {
-        "nombre": "Shoah",
-        "año": 1985,
-        "descripcion": "Un documental monumental dirigido por Claude Lanzmann que examina el Holocausto a través de testimonios de sobrevivientes, testigos y perpetradores."
-      },
-      {
-        "nombre": "Capturing the Friedmans",
-        "año": 2003,
-        "descripcion": "Una obra clave dentro del documental criminal que explora los límites de la verdad, los claroscuros de la justicia y la destrucción de una familia debido a acusaciones de pederastia."
-      },
-      {
-        "nombre": "Líbranos del mal (Deliver Us From Evil)",
-        "año": 2006,
-        "descripcion": "Una pesadilla que narra la historia del padre Oliver O’Grady, quien violó a decenas de niños durante dos décadas, y cómo la Iglesia Católica encubrió sus crímenes."
-      },
-      {
-        "nombre": "Bowling for Columbine",
+        "nombre": "El Aro",
         "año": 2002,
-        "descripcion": "Michael Moore aborda el tema del control de armas en EE. UU. con agilidad narrativa, humor corrosivo y un poder reivindicativo impactante."
+        "director": "Gore Verbinski",
+        "descripcion": "'El Aro' sigue a una periodista que investiga una cinta de video maldita que causa la muerte de quien la vea después de siete días. La búsqueda la lleva a descubrir secretos oscuros y a enfrentarse a una presencia aterradora. Dirigida por Gore Verbinski.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/3bd1695448a5d0e2c9e46e3611c0bb71_7204ebd7-ebb5-444a-b288-64186473335b_480x.progressive.jpg?v=1573654008",
+        "trailer": "https://www.youtube.com/watch?v=zfBwQD1zPLs"
       },
       {
-        "nombre": "My Octopus Teacher",
-        "año": 2020,
-        "descripcion": "Un documental emotivo sobre la relación entre un cineasta y un pulpo en las aguas de Sudáfrica."
+        "nombre": "El Conjuro 3: El Diablo Me Obligó a Hacerlo",
+        "año": 2021,
+        "director": "Michael Chaves",
+        "descripcion": "Basada en un caso real de los archivos de los Warren, 'El Conjuro 3: El Diablo Me Obligó a Hacerlo' sigue a los investigadores paranormales mientras luchan contra un espíritu maligno que posee a un hombre para cometer un asesinato. Dirigida por Michael Chaves.",
+        "poster": "https://musicart.xboxlive.com/7/52be5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+        "trailer": "https://www.youtube.com/watch?v=mHN0PAs8hQg"
       },
       {
-        "nombre": "El Agente Topo",
-        "año": 2020,
-        "descripcion": "Una película chilena que sigue a un detective privado de 83 años mientras investiga un hogar de ancianos en busca de maltrato."
-      },
-      {
-        "nombre": "Tell Me Who I Am",
-        "año": 2019,
-        "descripcion": "Un relato impactante sobre la memoria, la identidad y los secretos familiares."
-      },
-      {
-        "nombre": "A Secret Love",
-        "año": 2020,
-        "descripcion": "Una historia de amor duradera entre dos mujeres que mantuvieron su relación en secreto durante décadas."
-      },
-      {
-        "nombre": "El Silencio de Otros",
+        "nombre": "Hereditary",
         "año": 2018,
-        "descripcion": "Un documental español que aborda la lucha por la justicia y la memoria histórica de las víctimas del franquismo."
-      },
-      {
-        "nombre": "Shirkers",
-        "año": 2018,
-        "descripcion": "Una película de Singapur que explora la misteriosa desaparición de una película independiente rodada en los años 90."
-      }
-    ],
-    "fantasy": [
-      {
-        "banner": "./src/assets/banners/fantasy.png"
-      },
-      {
-        "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
-        "año": 2001,
-        "descripcion": "La primera película de la trilogía épica basada en las novelas de J.R.R. Tolkien. Sigue la aventura de Frodo y su misión para destruir el Anillo Único."
-      },
-      {
-        "nombre": "Harry Potter y la Piedra Filosofal",
-        "año": 2001,
-        "descripcion": "El inicio de la saga de Harry Potter, donde descubre su verdadera identidad como mago y asiste a Hogwarts, la escuela de magia."
-      },
-      {
-        "nombre": "La Princesa Prometida",
-        "año": 1987,
-        "descripcion": "Una historia de amor, aventuras y duelos de espadas. Incluye piratas, princesas y un gigante llamado Fezzik."
-      },
-      {
-        "nombre": "Conan, el Bárbaro",
-        "año": 1982,
-        "descripcion": "Arnold Schwarzenegger interpreta a Conan, un guerrero en busca de venganza en un mundo lleno de magia y monstruos."
-      },
-      {
-        "nombre": "Star Wars: Episodio IV - Una Nueva Esperanza",
-        "año": 1977,
-        "descripcion": "La película que dio inicio a la legendaria saga de Star Wars. Una epopeya espacial con jedis, siths, naves espaciales y la Fuerza."
-      },
-      {
-        "nombre": "Los Cuentos de la Luna Pálida",
-        "año": 1953,
-        "descripcion": "Una obra maestra del cine japonés dirigida por Kenji Mizoguchi. Explora la relación entre el mundo real y el mundo de los espíritus."
-      },
-      {
-        "nombre": "La Montaña Sagrada",
-        "año": 1973,
-        "descripcion": "Una película surrealista de Alejandro Jodorowsky que sigue a un alquimista en busca de la inmortalidad."
+        "director": "Ari Aster",
+        "descripcion": "'Hereditary' sigue a una familia que se enfrenta a oscuros secretos y fuerzas sobrenaturales después de la muerte de la abuela. La película es una experiencia aterradora y perturbadora que explora el trauma y el destino. Dirigida por Ari Aster.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/hereditary_a505c7fb_480x.progressive.jpg?v=1626713768",
+        "trailer": "https://www.youtube.com/watch?v=V6wWKNij_1M"
       },
       {
         "nombre": "El Laberinto del Fauno",
         "año": 2006,
-        "descripcion": "Guillermo del Toro nos lleva a la España posguerra, donde una niña se encuentra con criaturas mágicas en un laberinto."
+        "director": "Guillermo del Toro",
+        "descripcion": "Ambientada en la España de posguerra, esta película combina la realidad y la fantasía mientras sigue a una joven en medio de un mundo mágico y peligroso. Dirigida por Guillermo del Toro.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/panslabyrinth.24x36_480x.progressive.jpg?v=1709329134",
+        "trailer": "https://www.youtube.com/watch?v=EqYiSlkvRuw"
       },
       {
-        "nombre": "El Milagro de P. Tinto",
-        "año": 1998,
-        "descripcion": "Una comedia española que sigue las desventuras de P. Tinto y su búsqueda para tener un hijo."
+        "nombre": "El Silencio de los Corderos",
+        "año": 1991,
+        "director": "Jonathan Demme",
+        "descripcion": "Un thriller psicológico que sigue a una joven agente del FBI mientras busca la ayuda de un inteligente pero perturbado psiquiatra para atrapar a un asesino en serie. Dirigida por Jonathan Demme.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/scan004_1eec5b95-545a-49ba-8766-d0132069de28_480x.progressive.jpg?v=1655484905",
+        "trailer": "https://www.youtube.com/watch?v=W6Mm8Sbe__o"
       },
       {
-        "nombre": "Blancanieves",
+        "nombre": "El Sexto Sentido",
+        "año": 1999,
+        "director": "M. Night Shyamalan",
+        "descripcion": "Un niño que ve personas muertas busca la ayuda de un psicólogo infantil para entender su don, pero descubre que su propio terapeuta tiene secretos oscuros. Dirigida por M. Night Shyamalan.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/19087_2730733_480x.progressive.jpg?v=1706894700",
+        "trailer": "https://www.youtube.com/watch?v=vgZlKKS42Rk"
+      },
+      {
+        "nombre": "El Juego de Gerald",
+        "año": 2017,
+        "director": "Mike Flanagan",
+        "descripcion": "Basada en la novela de Stephen King, 'El Juego de Gerald' sigue a una mujer que, después de un juego sexual que sale mal, se encuentra esposada a una cama en una casa remota, enfrentando sus peores miedos y secretos oscuros. Dirigida por Mike Flanagan.",
+        "poster": "https://i.pinimg.com/736x/b1/f0/98/b1f0983afb04a16989e9772c7c9a8370.jpg",
+        "trailer": "https://www.youtube.com/watch?v=twbGU2CqqQU"
+      }
+    ],
+    "documentary": [
+      {
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092325/BeMaster/documentary_cvd2nv.jpg?_s=public-apps"
+      },
+      {
+        "nombre": "Shoah",
+        "año": 1985,
+        "director": "Claude Lanzmann",
+        "descripcion": "Un documental monumental dirigido por Claude Lanzmann que examina el Holocausto a través de testimonios de sobrevivientes, testigos y perpetradores. 'Shoah' es una obra profundamente conmovedora que ofrece una visión única y desgarradora de uno de los períodos más oscuros de la historia humana.",
+        "poster": "https://m.media-amazon.com/images/I/715xZzisP1L._AC_UF1000,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=1JbdcEYE4zU"
+      },
+      {
+        "nombre": "Capturing the Friedmans",
+        "año": 2003,
+        "director": "Andrew Jarecki",
+        "descripcion": "Una obra clave dentro del documental criminal que explora los límites de la verdad, los claroscuros de la justicia y la destrucción de una familia debido a acusaciones de pederastia. 'Capturing the Friedmans' es un viaje inquietante y profundamente humano que cuestiona nuestras percepciones sobre la verdad y la inocencia.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/a516ac2a294ac2f05a6d388f76296c24_d8f520d8-4772-4cf1-9c2e-635df7ed385b_480x.progressive.jpg?v=1573615997",
+        "trailer": "https://www.youtube.com/watch?v=gmnzY6L_NXo"
+      },
+      {
+        "nombre": "Líbranos del mal (Deliver Us From Evil)",
+        "año": 2006,
+        "director": "Amy J. Berg",
+        "descripcion": "Una pesadilla que narra la historia del padre Oliver O’Grady, quien violó a decenas de niños durante dos décadas, y cómo la Iglesia Católica encubrió sus crímenes. 'Líbranos del mal' es un retrato impactante de abuso, poder y la búsqueda de justicia en medio de la corrupción institucional.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/8593b954a5dcacfd87f31d289589b734_52967d6f-3abc-42b3-b0ff-296f5f08bb65_480x.progressive.jpg?v=1573584639",
+        "trailer": "https://www.youtube.com/watch?v=dyigL0ONbxs"
+      },
+      {
+        "nombre": "Bowling for Columbine",
+        "año": 2002,
+        "director": "Michael Moore",
+        "descripcion": "Michael Moore aborda el tema del control de armas en EE. UU. con agilidad narrativa, humor corrosivo y un poder reivindicativo impactante. 'Bowling for Columbine' es un documental provocativo que desafía nuestras percepciones sobre la violencia armada y la cultura del miedo en América.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/ae3cf7c1dea4b9a9a936413f1b74cd98_b37f1307-91cc-4657-9de8-e3d3fab72e50_480x.progressive.jpg?v=1573652616",
+        "trailer": "https://www.youtube.com/watch?v=EUSo0hEhVG8"
+      },
+      {
+        "nombre": "My Octopus Teacher",
+        "año": 2020,
+        "director": "Pippa Ehrlich, James Reed",
+        "descripcion": "Un documental emotivo sobre la relación entre un cineasta y un pulpo en las aguas de Sudáfrica. 'My Octopus Teacher' es una historia de conexión, descubrimiento y asombro ante la belleza y la complejidad del mundo natural.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODFkYThkMGItYzczYS00NmU2LWFiZjctNmFmZWNiM2NkM2M1XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=3s0LTDhqe5A"
+      },
+      {
+        "nombre": "13th",
+        "año": 2016,
+        "director": "Ava DuVernay",
+        "descripcion": "'13th' es un documental impactante que examina el sistema de justicia penal de Estados Unidos y su conexión con la historia de la esclavitud y la opresión racial. Dirigido por Ava DuVernay, este documental arroja luz sobre las disparidades raciales en el sistema legal y llama a la acción para un cambio significativo.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_FMjpg_UX1000_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=krfcq5pF8u8"
+      },
+      {
+        "nombre": "Won't You Be My Neighbor?",
+        "año": 2018,
+        "director": "Morgan Neville",
+        "descripcion": "'Won't You Be My Neighbor?' es un homenaje al icónico presentador de televisión Fred Rogers, quien impactó profundamente a generaciones de niños con su programa 'Mister Rogers' Neighborhood'. Dirigido por Morgan Neville, este documental ofrece una mirada conmovedora a la vida y el legado de Rogers.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/a9dea7cda65680f0c8b2875d4dd5a465_97181b8e-300c-41df-9b12-bee17197e934_480x.progressive.jpg?v=1573585365",
+        "trailer": "https://www.youtube.com/watch?v=FhwktRDG_aQ"
+      },
+      {
+        "nombre": "Citizenfour",
+        "año": 2014,
+        "director": "Laura Poitras",
+        "descripcion": "'Citizenfour' sigue al denunciante de la NSA Edward Snowden mientras revela los detalles de la vigilancia masiva del gobierno estadounidense. Dirigido por Laura Poitras, este documental ofrece una visión íntima de uno de los momentos más impactantes en la historia de la vigilancia y la privacidad en el siglo XXI.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTE4NWFiOTMtZjNhMC00NDhjLWEzZjgtZjFhM2M3NDZiN2ExXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=XiGwAvd5mvM"
+      },
+      {
+        "nombre": "Fahrenheit 9/11",
+        "año": 2004,
+        "director": "Michael Moore",
+        "descripcion": "'Fahrenheit 9/11' es un documental provocativo que analiza las acciones del gobierno de EE. UU. después de los ataques del 11 de septiembre de 2001. Dirigido por Michael Moore, este documental cuestiona la narrativa oficial y desafía las decisiones políticas que siguieron a esos eventos.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/adff28637bd48b77a7e57b602a0fab91_b68f2a1a-b15b-476c-9fb5-03e8bb781229_480x.progressive.jpg?v=1573585337",
+        "trailer": "https://www.youtube.com/watch?v=cebnlqi9RGQ"
+      },
+      {
+        "nombre": "March of the Penguins",
+        "año": 2005,
+        "director": "Luc Jacquet",
+        "descripcion": "'March of the Penguins' es un documental cautivador que sigue la migración anual de los pingüinos emperador en la Antártida. Dirigido por Luc Jacquet, este documental ofrece una visión sorprendente y hermosa de la vida en uno de los entornos más extremos de la Tierra.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/a79ef4484bc525245ac7df1a107b8eca_35d793b8-6cd1-47ad-a8b3-159bbf11b8ac_480x.progressive.jpg?v=1573655054",
+        "trailer": "https://www.youtube.com/watch?v=9r5Pk9JJ3JM"
+      },
+      {
+        "nombre": "The Act of Killing",
         "año": 2012,
-        "descripcion": "Una versión oscura y fantástica del cuento clásico de Blancanieves, dirigida por Pablo Berger."
+        "director": "Joshua Oppenheimer",
+        "descripcion": "Un documental impactante que sigue a antiguos miembros de escuadrones de la muerte en Indonesia mientras recrean sus crímenes en forma de películas de género. Una mirada perturbadora a la impunidad y el poder del cine.",
+        "poster": "https://pics.filmaffinity.com/The_Act_of_Killing-923180654-large.jpg",
+        "trailer": "https://www.youtube.com/watch?v=SD5Bij6FjcE"
+      },
+      {
+        "nombre": "Blackfish",
+        "año": 2013,
+        "director": "Gabriela Cowperthwaite",
+        "descripcion": "Este documental examina el impacto del cautiverio en las orcas, centrándose en la orca Tilikum que estuvo involucrada en la muerte de varias personas mientras estaba en cautiverio en SeaWorld.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8OEjYquyjcg"
+      },
+      {
+        "nombre": "Supersize Me",
+        "año": 2004,
+        "director": "Morgan Spurlock",
+        "descripcion": "Morgan Spurlock se embarca en un experimento para documentar los efectos de comer únicamente comida rápida de McDonald's durante 30 días. El documental examina los impactos en la salud y la industria alimentaria.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/f9274c7e91dc73b30c3b0e2fca9cc797_565a61a6-1818-49ab-9e5d-2bd784359ff8_480x.progressive.jpg?v=1573618816",
+        "trailer": "https://www.youtube.com/watch?v=I1Lkyb6SU5U"
+      },
+      {
+        "nombre": "Man on Wire",
+        "año": 2008,
+        "director": "James Marsh",
+        "descripcion": "Este documental recrea el día en que el equilibrista Philippe Petit caminó sobre un cable entre las Torres Gemelas del World Trade Center en 1974. A través de imágenes de archivo y entrevistas, la película captura la hazaña y el espíritu de Petit.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTk3NDY1NV5BMl5BanBnXkFtZTcwNDk0ODg3MQ@@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=EIawNRm9NWM"
+      },
+      {
+        "nombre": "Jiro Dreams of Sushi",
+        "año": 2011,
+        "director": "David Gelb",
+        "descripcion": "El documental sigue la vida y el trabajo de Jiro Ono, un legendario maestro de sushi en Tokio, y su dedicación a perfeccionar el arte del sushi. A través de imágenes bellamente capturadas, el documental ofrece una mirada íntima al mundo de la gastronomía japonesa.",
+        "poster": "https://images.squarespace-cdn.com/content/v1/5a01142118b27dfedc5dac3f/1510360064366-9J2BUWTPYBR1ACEBJRBI/image-asset.png",
+        "trailer": "https://www.youtube.com/watch?v=hbvT3q0Uzn0"
+      }
+    ],
+    "fantasy": [
+      {
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/fantasy_ldondy.jpg?_s=public-apps"
+      },
+      {
+        "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+        "año": 2001,
+        "director": "Peter Jackson",
+        "descripcion": "La primera película de la trilogía épica basada en las novelas de J.R.R. Tolkien. Sigue la aventura de Frodo y su misión para destruir el Anillo Único. 'El Señor de los Anillos: La Comunidad del Anillo' es un viaje inolvidable a través de la Tierra Media, lleno de peligros, amistad y heroísmo.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/ItemP2658_jpg_480x.progressive.jpg?v=1692302023",
+        "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+      },
+      {
+        "nombre": "Harry Potter y la Piedra Filosofal",
+        "año": 2001,
+        "director": "Chris Columbus",
+        "descripcion": "El inicio de la saga de Harry Potter, donde descubre su verdadera identidad como mago y asiste a Hogwarts, la escuela de magia. 'Harry Potter y la Piedra Filosofal' es una emocionante introducción al mundo mágico creado por J.K. Rowling, llena de aventuras, misterios y amistades duraderas.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/b8d5650e74e9a310c758aac692088feb_69145935-6450-4b65-8107-0224e8342221_480x.progressive.jpg?v=1573588628",
+        "trailer": "https://www.youtube.com/watch?v=VyHV0BRtdxo"
+      },
+      {
+        "nombre": "La Princesa Prometida",
+        "año": 1987,
+        "director": "Rob Reiner",
+        "descripcion": "Una historia de amor, aventuras y duelos de espadas. Incluye piratas, princesas y un gigante llamado Fezzik. 'La Princesa Prometida' es un cuento de hadas clásico lleno de humor, romance y acción, que ha cautivado a audiencias de todas las edades durante décadas.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/6b6a6ee4e4836ec59a764697bceedcf7_8c7f1dce-85a3-43a1-b36c-bc19eb61ca8b_480x.progressive.jpg?v=1573588670",
+        "trailer": "https://www.youtube.com/watch?v=VYgcrny2hRs"
+      },
+      {
+        "nombre": "Conan, el Bárbaro",
+        "año": 1982,
+        "director": "John Milius",
+        "descripcion": "Arnold Schwarzenegger interpreta a Conan, un guerrero en busca de venganza en un mundo lleno de magia y monstruos. 'Conan, el Bárbaro' es una epopeya de acción y fantasía que transporta a los espectadores a un mundo brutal y salvaje, donde el honor y la valentía son las únicas armas contra el mal.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/d97e87314bac9d8f9861a0bbd1698121_396b84ec-22a7-4e81-980b-e3d06f4c06a0_480x.progressive.jpg?v=1573651547",
+        "trailer": "https://www.youtube.com/watch?v=HhwWaL4YUXs"
+      },
+      {
+        "nombre": "Star Wars: Episodio IV - Una Nueva Esperanza",
+        "año": 1977,
+        "director": "George Lucas",
+        "descripcion": "La película que dio inicio a la legendaria saga de Star Wars. Una epopeya espacial con jedis, siths, naves espaciales y la Fuerza. 'Star Wars: Episodio IV - Una Nueva Esperanza' es un clásico del cine de fantasía que ha cautivado a generaciones con su imaginación y su sentido épico.",
+        "poster": "https://m.media-amazon.com/images/I/81P3lDJbjCL.jpg",
+        "trailer": "https://www.youtube.com/watch?v=XHk5kCIiGoM"
+      },
+      {
+        "nombre": "Laberinto",
+        "año": 1986,
+        "director": "Jim Henson",
+        "descripcion": "Una joven, interpretada por Jennifer Connelly, se aventura en un mundo de fantasía para rescatar a su hermano pequeño de un rey malvado. Dirigida por Jim Henson y producida por George Lucas, 'Laberinto' es un viaje mágico lleno de criaturas extrañas y desafíos emocionantes.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/8d0690d8dd0f019a5391344c8d129f6b_384869d3-85d5-47e2-9a91-2ff4deb70e1f_480x.progressive.jpg?v=1573590285",
+        "trailer": "https://www.youtube.com/watch?v=XRcOZZDvMv4"
+      },
+      {
+        "nombre": "El Viaje de Chihiro",
+        "año": 2001,
+        "director": "Hayao Miyazaki",
+        "descripcion": "Una niña llamada Chihiro se encuentra atrapada en un mundo de espíritus y dioses, donde debe trabajar en un baño público para salvar a sus padres y regresar al mundo humano. Dirigida por el legendario Hayao Miyazaki, 'El Viaje de Chihiro' es una obra maestra de la animación japonesa llena de imaginación y profundidad emocional.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
+      },
+      {
+        "nombre": "El Último Unicornio",
+        "año": 1982,
+        "director": "Jules Bass, Arthur Rankin Jr.",
+        "descripcion": "Basada en la novela de Peter S. Beagle, 'El Último Unicornio' sigue la aventura de una unicornio que busca descubrir qué le sucedió a los demás de su especie. Con una animación encantadora y una historia conmovedora, esta película es un tesoro de la fantasía animada.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/lastunicorn.138761.mp_f3963c86-6c4e-4a41-aeb5-57f82135c297_480x.progressive.jpg?v=1700666275",
+        "trailer": "https://www.youtube.com/watch?v=t-UpwWauZ50"
+      },
+      {
+        "nombre": "El Castillo Ambulante",
+        "año": 2004,
+        "director": "Hayao Miyazaki",
+        "descripcion": "Una joven llamada Sophie es transformada en una anciana por una bruja malvada y se une al mago Howl en su castillo ambulante para buscar una forma de romper el hechizo. Dirigida por Hayao Miyazaki, 'El Castillo Ambulante' es una aventura fantástica llena de magia, romance y descubrimiento personal.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/ba7a1a793881f159dda4e839afd669de_fb921663-096f-436f-ae0a-fe1d35e508bf_480x.progressive.jpg?v=1573617512",
+        "trailer": "https://www.youtube.com/watch?v=iwROgK94zcM"
+      },
+      {
+        "nombre": "Willow",
+        "año": 1988,
+        "director": "Ron Howard",
+        "descripcion": "En un mundo de fantasía habitado por enanos, magos y criaturas míticas, un granjero llamado Willow se embarca en una misión para proteger a un bebé destinado a derrotar a la malvada reina Bavmorda. Dirigida por Ron Howard y producida por George Lucas, 'Willow' es una aventura emocionante llena de magia y acción.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/4ecf1c5d1291e6327c31294c8ad31a09_ff4d2f60-a6db-4ae2-ae68-34cbc55774e3_480x.progressive.jpg?v=1573613561",
+        "trailer": "https://www.youtube.com/watch?v=uzgjyHT8WxI"
+      },
+      {
+        "nombre": "El Mago de Oz",
+        "año": 1939,
+        "director": "Victor Fleming",
+        "descripcion": "Dorothy viaja a la Tierra de Oz, donde conoce a nuevos amigos y busca al Mago de Oz para regresar a casa. 'El Mago de Oz' es un clásico del cine lleno de magia, aventura y lecciones de vida atemporales.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/768f09de91b460b9a11b8acd11d049c2_4f5e707f-5ca5-426e-aff2-3d8f9b1e7572_480x.progressive.jpg?v=1573588626",
+        "trailer": "https://www.youtube.com/watch?v=82skexWKYAs"
+      },
+      {
+        "nombre": "El Laberinto del Fauno",
+        "año": 2006,
+        "director": "Guillermo del Toro",
+        "descripcion": "En la España de posguerra, una niña descubre un mundo subterráneo habitado por criaturas mágicas. 'El Laberinto del Fauno' es una oscura y hermosa fábula que entrelaza la realidad con la fantasía de manera magistral.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/panslabyrinth.24x36_480x.progressive.jpg?v=1709329134",
+        "trailer": "https://www.youtube.com/watch?v=EqYiSlkvRuw"
+      },
+      {
+        "nombre": "La Historia sin fin",
+        "año": 1984,
+        "director": "Wolfgang Petersen",
+        "descripcion": "Un niño llamado Bastian descubre un libro mágico que lo lleva a Fantasía, un mundo lleno de criaturas fantásticas. 'La Historia Interminable' es una aventura emocionante sobre el poder de la imaginación y la importancia de creer en uno mismo.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/eb5c16f548a13a9928059e3c583e7ecb_a285bd61-1f86-4afa-ab44-42fdaae97138_480x.progressive.jpg?v=1573591464",
+        "trailer": "https://www.youtube.com/watch?v=kTUxHfVmn1I"
+      },
+      {
+        "nombre": "Dragones y Mazmorras",
+        "año": 2000,
+        "director": "Courtney Solomon",
+        "descripcion": "Un grupo de aventureros debe detener a un malvado hechicero que planea usar un poderoso cetro para sumir al mundo en la oscuridad. 'Dragones y Mazmorras' es una adaptación del famoso juego de rol que ofrece una dosis de fantasía y acción.",
+        "poster": "https://xl.movieposterdb.com/05_12/2000/0190374/xl_71017_0190374_e455e2f0.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Y_U2tP4-9lM"
+      },
+      {
+        "nombre": "Cristal Oscuro",
+        "año": 1982,
+        "director": "Jim Henson, Frank Oz",
+        "descripcion": "En un mundo dividido entre el bien y el mal, un joven se embarca en una misión para restaurar el Cristal Oscuro y devolver el equilibrio al universo. 'Cristal Oscuro' es una epopeya de fantasía que combina marionetas y efectos especiales para crear un mundo único y fascinante.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/darkcrystal.mpw.120599_480x.progressive.jpg?v=1707491141",
+        "trailer": "https://www.youtube.com/watch?v=ZQdJIpSdNnM"
       }
     ],
     "animation": [
       {
-        "banner": "./src/assets/banners/animation.png"
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/animation_fv323f.jpg?_s=public-apps"
       },
       {
         "nombre": "El viaje de Chihiro",
         "año": 2001,
-        "descripcion": "Una obra maestra de Hayao Miyazaki que nos sumerge en un mundo mágico lleno de criaturas y aventuras. Chihiro debe enfrentarse a desafíos sobrenaturales para salvar a sus padres y regresar al mundo real."
+        "director": "Hayao Miyazaki",
+        "descripcion": "Una obra maestra de Hayao Miyazaki que nos sumerge en un mundo mágico lleno de criaturas y aventuras. Chihiro debe enfrentarse a desafíos sobrenaturales para salvar a sus padres y regresar al mundo real.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
       },
       {
         "nombre": "El rey león",
         "año": 1994,
-        "descripcion": "Un clásico de Disney que sigue la historia de Simba, un joven león que debe enfrentarse a su destino y reclamar su lugar como rey de la selva. Con una banda sonora inolvidable y personajes entrañables."
+        "director": "Roger Allers, Rob Minkoff",
+        "descripcion": "Un clásico de Disney que sigue la historia de Simba, un joven león que debe enfrentarse a su destino y reclamar su lugar como rey de la selva. Con una banda sonora inolvidable y personajes entrañables.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/lionking.blue.mpw.120038_480x.progressive.jpg?v=1708549099",
+        "trailer": "https://www.youtube.com/watch?v=4sj1MT05lAA"
       },
       {
         "nombre": "La tumba de las luciérnagas",
         "año": 1988,
-        "descripcion": "Una película japonesa que narra la conmovedora historia de dos hermanos durante la Segunda Guerra Mundial. Una obra maestra que combina belleza visual con una tristeza profunda."
+        "director": "Isao Takahata",
+        "descripcion": "Una película japonesa que narra la conmovedora historia de dos hermanos durante la Segunda Guerra Mundial. Una obra maestra que combina belleza visual con una tristeza profunda.",
+        "poster": "https://i5.walmartimages.com/seo/Grave-of-the-Fireflies-Movie-Poster-11-x-17_e22aa03d-afdf-4210-928d-6b8bfe0a7e96.2f54b90034d6811373b280d9180bb6f5.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=tlGzZG3Q6y4"
       },
       {
         "nombre": "WALL-E",
         "año": 2008,
-        "descripcion": "Una película de Pixar que nos lleva al futuro, donde la Tierra está desolada y llena de basura. WALL-E, un pequeño robot, descubre el amor y la esperanza mientras busca un nuevo hogar para la humanidad."
+        "director": "Andrew Stanton",
+        "descripcion": "Una película de Pixar que nos lleva al futuro, donde la Tierra está desolada y llena de basura. WALL-E, un pequeño robot, descubre el amor y la esperanza mientras busca un nuevo hogar para la humanidad.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/3ce3fe68028e5909a68f9ad5c069ca72_480x.progressive.jpg?v=1573652340",
+        "trailer": "https://www.youtube.com/watch?v=alIq_wG9FNk"
       },
       {
         "nombre": "Toy Story",
         "año": 1995,
-        "descripcion": "La primera película completamente animada por computadora. Woody y Buzz Lightyear son juguetes que cobran vida cuando los humanos no los ven. Una historia sobre la amistad y la importancia de ser uno mismo."
+        "director": "John Lasseter",
+        "descripcion": "La primera película completamente animada por computadora. Woody y Buzz Lightyear son juguetes que cobran vida cuando los humanos no los ven. Una historia sobre la amistad y la importancia de ser uno mismo.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/ToyStory.mpw.102287_480x.progressive.jpg?v=1709331779",
+        "trailer": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
       },
       {
         "nombre": "Buscando a Nemo",
         "año": 2003,
-        "descripcion": "Marlin, un pez payaso, emprende un viaje épico para encontrar a su hijo Nemo, quien fue capturado por un buceador. Una aventura submarina llena de humor y emociones."
+        "director": "Andrew Stanton, Lee Unkrich",
+        "descripcion": "Marlin, un pez payaso, emprende un viaje épico para encontrar a su hijo Nemo, quien fue capturado por un buceador. Una aventura submarina llena de humor y emociones.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/7ad0e4364cd99fc796183595c285f9f8_16cac898-7616-4451-b780-6dcc684fd3f7_480x.progressive.jpg?v=1573587355",
+        "trailer": "https://www.youtube.com/watch?v=7B_fsqoWt_4"
       },
       {
         "nombre": "Ratatouille",
         "año": 2007,
-        "descripcion": "Remy, una rata con un talento culinario excepcional, sueña con convertirse en un gran chef. Una película que celebra la pasión por la comida y la superación de obstáculos."
+        "director": "Brad Bird",
+        "descripcion": "Remy, una rata con un talento culinario excepcional, sueña con convertirse en un gran chef. Una película que celebra la pasión por la comida y la superación de obstáculos.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/ratatouille.mp_480x.progressive.jpg?v=1658172081",
+        "trailer": "https://www.youtube.com/watch?v=c3sBBRxDAqk"
       },
       {
         "nombre": "Up",
         "año": 2009,
-        "descripcion": "Carl Fredricksen, un anciano viudo, decide cumplir su sueño de viajar a Sudamérica llevando su casa volando con globos. Una película emotiva sobre la aventura y la amistad."
+        "director": "Pete Docter, Bob Peterson",
+        "descripcion": "Carl Fredricksen, un anciano viudo, decide cumplir su sueño de viajar a Sudamérica llevando su casa volando con globos. Una película emotiva sobre la aventura y la amistad.",
+        "poster": "https://rukminim2.flixcart.com/image/850/1000/poster/e/h/d/medium-andathdavp0243-ananyadesigns-up-official-wall-poster-original-imaeky26p54gpyhv.jpeg?q=20&crop=false",
+        "trailer": "https://www.youtube.com/watch?v=pkqzFUhGPJg"
       },
       {
-        "nombre": "Zootrópolis",
+        "nombre": "Zootopia",
         "año": 2016,
-        "descripcion": "Judy Hopps, una coneja policía, se une a un astuto zorro llamado Nick Wilde para resolver un misterio en la ciudad de Zootrópolis. Una película que aborda temas de prejuicios y diversidad."
+        "director": "Byron Howard, Rich Moore",
+        "descripcion": "Judy Hopps, una coneja policía, se une a un astuto zorro llamado Nick Wilde para resolver un misterio en la ciudad de Zootrópolis. Una película que aborda temas de prejuicios y diversidad.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/8df8644f8915e17ba5a874a7ed31fd9a_480x.progressive.jpg?v=1573653806",
+        "trailer": "https://www.youtube.com/watch?v=jWM0ct-OLsM"
       },
       {
         "nombre": "Coco",
         "año": 2017,
-        "descripcion": "Una celebración de la cultura mexicana y el Día de los Muertos. Miguel, un niño apasionado por la música, viaja al mundo de los muertos para descubrir sus raíces familiares."
+        "director": "Lee Unkrich, Adrian Molina",
+        "descripcion": "Una celebración de la cultura mexicana y el Día de los Muertos. Miguel, un niño apasionado por la música, viaja al mundo de los muertos para descubrir sus raíces familiares.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/coco_39d1fd76_480x.progressive.jpg?v=1698424234",
+        "trailer": "https://www.youtube.com/watch?v=xlnPHQ3TLX8"
+      },
+      {
+        "nombre": "Shrek",
+        "año": 2001,
+        "director": "Andrew Adamson, Vicky Jenson",
+        "descripcion": "Esta película revolucionó la animación con su humor irreverente y su historia de un ogro solitario que se embarca en una misión para rescatar a una princesa. Con personajes entrañables y un mensaje sobre la aceptación de uno mismo, 'Shrek' se convirtió en un clásico instantáneo.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/626aa2027030d9190567f704f7f12bab_53c80f27-d70d-4e93-93b2-312154041e19_480x.progressive.jpg?v=1573651553",
+        "trailer": "https://www.youtube.com/watch?v=ooJJX3R42WM"
+      },
+      {
+        "nombre": "Los Increíbles",
+        "año": 2004,
+        "director": "Brad Bird",
+        "descripcion": "Una película de superhéroes animada que sigue a una familia de superhéroes retirados que deben volver a la acción para salvar al mundo. Con una mezcla perfecta de humor, acción y emociones, 'Los Increíbles' es una joya del cine animado.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/incredibles_480x.progressive.jpg?v=1682699450",
+        "trailer": "https://www.youtube.com/watch?v=eZbzbC9285I"
+      },
+      {
+        "nombre": "Sausage Party: La fiesta más salvaje",
+        "año": 2016,
+        "director": "Greg Tiernan, Conrad Vernon",
+        "descripcion": "Una comedia animada para adultos que sigue a un grupo de alimentos en el supermercado que descubre la verdad sobre su destino. Llena de humor irreverente y satírico, 'Sausage Party' es una experiencia animada única.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/c4b5e56b91db6e0a85028079b15f1ef2_b2187685-6501-4b7f-b880-b5900e25b646_480x.progressive.jpg?v=1706897996",
+        "trailer": "https://www.youtube.com/watch?v=WVAcTZKTgmc"
+      },
+      {
+        "nombre": "Fantástico Sr. Zorro",
+        "año": 2009,
+        "director": "Wes Anderson",
+        "descripcion": "Basada en el libro de Roald Dahl, esta película sigue las aventuras de un astuto zorro que desafía a tres malvados granjeros. Con su estilo visual único y su humor inteligente, 'Fantástico Sr. Zorro' es una delicia animada para todas las edades.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/a6e0d9d134abe291a519fdfc851eace4_ab69fd1e-1256-4903-8e46-467169415de1_480x.progressive.jpg?v=1707773119",
+        "trailer": "https://www.youtube.com/watch?v=n2igjYFojUo"
+      },
+      {
+        "nombre": "Spider-Man: Un nuevo universo",
+        "año": 2018,
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "descripcion": "Una innovadora película de superhéroes animada que sigue a un adolescente de Brooklyn que se convierte en Spider-Man y debe unir fuerzas con otros Spider-Personas de diferentes realidades para salvar el universo. Con una animación impresionante y una historia emocionante, 'Spider-Man: Un nuevo universo' cautiva a audiencias de todas las edades.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/ba725a04a0416d8959f38334f6af0c33_83e83e4a-89c7-41a7-822b-888cbf627520_480x.progressive.jpg?v=1709312067",
+        "trailer": "https://www.youtube.com/watch?v=g4Hbz2jLxvQ"
+      }
+    ],
+    "drama": [
+      {
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092325/BeMaster/drama_gcligz.jpg?_s=public-apps"
+      },
+      {
+        "nombre": "Forrest Gump",
+        "año": 1994,
+        "director": "Robert Zemeckis",
+        "descripcion": "La historia de un hombre con un coeficiente intelectual bajo, pero con un gran corazón, que vive numerosas aventuras a lo largo de las décadas más significativas de la historia de Estados Unidos.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/forrest-gump---24x36_480x.progressive.jpg?v=1645558337",
+        "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+      },
+      {
+        "nombre": "La lista de Schindler",
+        "año": 1993,
+        "director": "Steven Spielberg",
+        "descripcion": "Un empresario alemán salva a más de mil refugiados judíos durante el Holocausto al emplearlos en sus fábricas.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/schindlers-list_d41a77ec_480x.progressive.jpg?v=1697746571",
+        "trailer": "https://www.youtube.com/watch?v=gG22XNhtnoY"
+      },
+      {
+        "nombre": "El Padrino",
+        "año": 1972,
+        "director": "Francis Ford Coppola",
+        "descripcion": "La épica historia de la familia mafiosa Corleone y su lucha por mantener el poder en América, balanceando los negocios de la familia con los personales.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/godfather.132843.mp_480x.progressive.jpg?v=1654286052",
+        "trailer": "https://www.youtube.com/watch?v=sY1S34973zA"
+      },
+      {
+        "nombre": "Cadena perpetua",
+        "año": 1994,
+        "director": "Frank Darabont",
+        "descripcion": "La historia de Andy Dufresne, un banquero injustamente condenado por asesinato, y su tiempo en la prisión de Shawshank, donde encuentra esperanza y redención.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/shawshank_eb84716b-efa9-44dc-a19d-c17924a3f7df_480x.progressive.jpg?v=1709821984",
+        "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+      },
+      {
+        "nombre": "12 hombres sin piedad",
+        "año": 1957,
+        "director": "Sidney Lumet",
+        "descripcion": "Un jurado debe decidir el destino de un joven acusado de asesinato, pero un miembro del jurado cuestiona la evidencia, lo que lleva a un intenso debate y confrontación.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/3a5bd5d26fb4e65a922508e7ce597d5e_2c03f332-fc4d-4df2-b6ac-61d577804ea8_480x.progressive.jpg?v=1573592716",
+        "trailer": "https://www.youtube.com/watch?v=_13J_9B5jEk"
+      },
+      {
+        "nombre": "Gladiador",
+        "año": 2000,
+        "director": "Ridley Scott",
+        "descripcion": "Un general romano traicionado se convierte en gladiador para vengar la muerte de su familia y su emperador.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/Gladiator.mpw.102813_480x.progressive.jpg?v=1707500493",
+        "trailer": "https://www.youtube.com/watch?v=owK1qxDselE"
+      },
+      {
+        "nombre": "El club de la pelea",
+        "año": 1999,
+        "director": "David Fincher",
+        "descripcion": "Un hombre insomne forma un club de lucha clandestino con un vendedor de jabón carismático, lo que lleva a consecuencias violentas y reveladoras.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/FightClub.mpw.125100_480x.progressive.jpg?v=1707497058",
+        "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
+      },
+      {
+        "nombre": "Salvar al soldado Ryan",
+        "año": 1998,
+        "director": "Steven Spielberg",
+        "descripcion": "Tras el Día D, un grupo de soldados estadounidenses van tras las líneas enemigas para recuperar a un paracaidista cuyos hermanos han muerto en combate.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/b4c809b14aec6fefd9a19781b56cf8d4_ceb8e0aa-8c35-4070-8637-58310e364508_480x.progressive.jpg?v=1628017781",
+        "trailer": "https://www.youtube.com/watch?v=zwhP5b4tD6g"
+      },
+      {
+        "nombre": "Interstellar",
+        "año": 2014,
+        "director": "Christopher Nolan",
+        "descripcion": "Un grupo de exploradores utiliza un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales humanos y conquistar las vastas distancias involucradas en un viaje interestelar.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/interstellar_593eaeff_480x.progressive.jpg?v=1698434355",
+        "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+      },
+      {
+        "nombre": "Amelie",
+        "año": 2001,
+        "director": "Jean-Pierre Jeunet",
+        "descripcion": "Amelie, una joven inocente y naif en París, decide cambiar la vida de aquellos que la rodean para mejor, mientras lucha con su propio aislamiento.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/amelie.24x36_480x.progressive.jpg?v=1707409864",
+        "trailer": "https://www.youtube.com/watch?v=HUECWi5pX7o"
+      },
+      {
+        "nombre": "Moonlight",
+        "año": 2016,
+        "director": "Barry Jenkins",
+        "descripcion": "Una crónica de la infancia, adolescencia y madurez de un joven afroamericano que crece en un barrio difícil de Miami, luchando por encontrar su lugar en el mundo.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/d5cfdab5162ce79515c10c48b0c19cfe_ee891663-d226-4b27-901d-1451101eff10_480x.progressive.jpg?v=1573617424",
+        "trailer": "https://www.youtube.com/watch?v=9NJj12tJzqc"
+      },
+      {
+        "nombre": "Manchester frente al mar",
+        "año": 2016,
+        "director": "Kenneth Lonergan",
+        "descripcion": "Un hombre depresivo se ve obligado a regresar a su pueblo natal para cuidar de su sobrino adolescente después de la muerte de su hermano.",
+        "poster": "https://m.media-amazon.com/images/I/61FRxBV1hbL._AC_UF894,1000_QL80_.jpg",
+        "trailer": "https://www.youtube.com/watch?v=gsVoD0pTge0"
+      },
+      {
+        "nombre": "El lobo de Wall Street",
+        "año": 2013,
+        "director": "Martin Scorsese",
+        "descripcion": "Basada en la historia real de Jordan Belfort, desde su ascenso a un adinerado corredor de bolsa viviendo la vida alta hasta su caída que involucra crimen, corrupción y el gobierno federal.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/WolfofWallStreet_480x.progressive.jpg?v=1682450212",
+        "trailer": "https://www.youtube.com/watch?v=iszwuX1AK6A"
+      },
+      {
+        "nombre": "La La Land",
+        "año": 2016,
+        "director": "Damien Chazelle",
+        "descripcion": "Una actriz y un músico luchan por hacer realidad sus sueños en Los Ángeles, encontrando el amor en un mundo conocido por romper corazones y aplastar esperanzas.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/LaLaLand.24x36_480x.progressive.jpg?v=1708547804",
+        "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+      },
+      {
+        "nombre": "Her",
+        "año": 2013,
+        "director": "Spike Jonze",
+        "descripcion": "En un futuro cercano, un hombre solitario desarrolla una relación romántica con un sistema operativo inteligente que tiene la capacidad de crecer psicológicamente y emocionalmente.",
+        "poster": "https://alternativemovieposters.com/wp-content/uploads/2016/02/cooper_her.jpg",
+        "trailer": "https://www.youtube.com/watch?v=WzV6mXIOVl4"
+      }
+    ],
+    "children": [
+      {
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/children_vocjzy.jpg?_s=public-apps"
+      },
+      {
+        "nombre": "Toy Story",
+        "año": 1995,
+        "director": "John Lasseter",
+        "descripcion": "Un vaquero de juguete se siente amenazado cuando un nuevo astronauta de juguete suplanta su lugar en el corazón de su joven dueño.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/ToyStory.mpw.102287_480x.progressive.jpg?v=1709331779",
+        "trailer": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
+      },
+      {
+        "nombre": "Monster Inc.",
+        "año": 2001,
+        "director": "Pete Docter, David Silverman, Lee Unkrich",
+        "descripcion": "Dos monstruos, Mike y Sulley, descubren que nada es más aterrador que una niña después de que una se adentra accidentalmente en su mundo.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/monstersinc.24x36_480x.progressive.jpg?v=1708704510",
+        "trailer": "https://www.youtube.com/watch?v=8IBNZ6O2kMk"
+      },
+      {
+        "nombre": "Buscando a Nemo",
+        "año": 2003,
+        "director": "Andrew Stanton",
+        "descripcion": "Después de que su hijo es capturado en la Gran Barrera de Coral y llevado a Sydney, un pez payaso tímido se embarca en un viaje para traerlo de vuelta.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/7ad0e4364cd99fc796183595c285f9f8_16cac898-7616-4451-b780-6dcc684fd3f7_480x.progressive.jpg?v=1573587355",
+        "trailer": "https://www.youtube.com/watch?v=wZdpNglLbt8"
+      },
+      {
+        "nombre": "Frozen",
+        "año": 2013,
+        "director": "Chris Buck, Jennifer Lee",
+        "descripcion": "Cuando una princesa con poderes incontrolables condena sin querer al reino a un invierno eterno, su hermana emprende un viaje arriesgado para salvarla.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/ItemR84808_jpg_480x.progressive.jpg?v=1663964296",
+        "trailer": "https://www.youtube.com/watch?v=TbQm5doF_Uc"
+      },
+      {
+        "nombre": "El Rey León",
+        "año": 1994,
+        "director": "Roger Allers, Rob Minkoff",
+        "descripcion": "Un joven príncipe león es desterrado de su reino solo para aprender el verdadero significado de la responsabilidad y la valentía.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/lionking.blue.mpw.120038_480x.progressive.jpg?v=1708549099",
+        "trailer": "https://www.youtube.com/watch?v=4sj1MT05lAA"
+      },
+      {
+        "nombre": "Coco",
+        "año": 2017,
+        "director": "Lee Unkrich, Adrian Molina",
+        "descripcion": "Un niño aspirante a músico entra a la Tierra de los Muertos para encontrar a su bisabuelo, un legendario cantante, y demostrar su talento musical.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/coco_39d1fd76_480x.progressive.jpg?v=1698424234",
+        "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI"
+      },
+      {
+        "nombre": "Cars",
+        "año": 2006,
+        "director": "John Lasseter, Joe Ranft",
+        "descripcion": "Un auto de carreras de alta tecnología aprende una valiosa lección sobre la comunidad y la amistad con la ayuda de los excéntricos vehículos de un pequeño pueblo.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/fbfbd136a19e9b1621c881e42388814d_544c1b04-efe1-4599-b1ad-08023032d257_480x.progressive.jpg?v=1573591400",
+        "trailer": "https://www.youtube.com/watch?v=SbXIj2T-_uk"
+      },
+      {
+        "nombre": "Mi vecino Totoro",
+        "año": 1988,
+        "director": "Hayao Miyazaki",
+        "descripcion": "Dos niñas se mudan al campo para estar cerca de su madre enferma y descubren la existencia de Totoro, el espíritu del bosque.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/myneighbourtotoro_480x.progressive.jpg?v=1708704673",
+        "trailer": "https://www.youtube.com/watch?v=92a7Hj0ijLs"
+      },
+      {
+        "nombre": "Up",
+        "año": 2009,
+        "director": "Pete Docter, Bob Peterson",
+        "descripcion": "Un viudo anciano realiza un viaje a Sudamérica con su casa voladora en búsqueda de una aventura que siempre quiso vivir con su esposa fallecida.",
+        "poster": "https://rukminim2.flixcart.com/image/850/1000/poster/e/h/d/medium-andathdavp0243-ananyadesigns-up-official-wall-poster-original-imaeky26p54gpyhv.jpeg?q=20&crop=false",
+        "trailer": "https://www.youtube.com/watch?v=pkqzFUhGPJg"
+      },
+      {
+        "nombre": "Valiente",
+        "año": 2012,
+        "director": "Mark Andrews, Brenda Chapman",
+        "descripcion": "Mérida, la impetuosa hija de un rey, desea forjar su propio camino en la vida. Desafiando una costumbre antigua sagrada para los señores de la tierra, Mérida toma una decisión que desata el caos en el reino. Al buscar ayuda, Mérida debe descubrir el verdadero significado de la valentía antes de que sea demasiado tarde.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/558590bffb31f6b0be870ff9a46e2cbb_480x.progressive.jpg?v=1573587254",
+        "trailer": "https://www.youtube.com/watch?v=TEHWDA_6e3M"
+      },
+      {
+        "nombre": "La sirenita",
+        "año": 1989,
+        "director": "Ron Clements, John Musker",
+        "descripcion": "Una joven sirena princesa hace un trato con una bruja del mar para convertirse en humana y ganar el amor de un príncipe humano.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/littlemermaid--bott2_480x.progressive.jpg?v=1690296809",
+        "trailer": "https://www.youtube.com/watch?v=ZGZX5-PAwR8"
+      },
+      {
+        "nombre": "Moana",
+        "año": 2016,
+        "director": "Ron Clements, John Musker",
+        "descripcion": "Una joven navegante intrépida zarpa en una audaz misión para salvar a su pueblo. Durante su viaje, Moana cumple la antigua búsqueda de sus ancestros y descubre su propia identidad.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/a629d7b08df8fb69f381a7a7b20c6317_8e303782-f0c6-4db1-8820-0ea5c806d1b5_480x.progressive.jpg?v=1573585286",
+        "trailer": "https://www.youtube.com/watch?v=LKFuXETZUsI"
+      },
+      {
+        "nombre": "Ratatouille",
+        "año": 2007,
+        "director": "Brad Bird",
+        "descripcion": "Un ratón parisino que sueña con convertirse en un gran chef intenta hacer realidad su sueño en uno de los restaurantes más famosos de París.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/ratatouille.mp_480x.progressive.jpg?v=1658172081",
+        "trailer": "https://www.youtube.com/watch?v=c3sBBRxDAqk"
+      },
+      {
+        "nombre": "Wallace y Gromit: La maldición de las verduras",
+        "año": 2005,
+        "director": "Nick Park, Steve Box",
+        "descripcion": "Wallace y su leal perro, Gromit, deben detener un misterioso monstruo que está destruyendo los huertos de la ciudad antes de que su concurso anual de verduras sea arruinado.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/wallace_and_gromit_the_curse_of_the_were_rabbit_ver3_480x.progressive.jpg?v=1707759174",
+        "trailer": "https://www.youtube.com/watch?v=44LIY4OqomE"
+      },
+      {
+        "nombre": "Paddington",
+        "año": 2014,
+        "director": "Paul King",
+        "descripcion": "Un joven oso peruano viaja a Londres en busca de un hogar. Al encontrarse perdido y solo en la estación de Paddington, se da cuenta de que la vida en la ciudad no es como él la imaginaba hasta que conoce a la amable familia Brown.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/662f15fb8f3e18c3e1b9917a22ea00b6_ab517bce-9a45-4c53-b48f-a2293f9fccea_480x.progressive.jpg?v=1573651216",
+        "trailer": "https://www.youtube.com/watch?v=CxeBdrGGU8U"
+      }
+    ],
+    "musical": [
+      {
+        "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/musical_bjxpge.jpg?_s=public-apps"
+      },
+      {
+        "nombre": "La La Land",
+        "año": 2016,
+        "director": "Damien Chazelle",
+        "descripcion": "Una actriz y un músico luchan por hacer realidad sus sueños en Los Ángeles, encontrando el amor en un mundo conocido por romper corazones y aplastar esperanzas.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/LaLaLand.24x36_480x.progressive.jpg?v=1708547804",
+        "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+      },
+      {
+        "nombre": "Los miserables",
+        "año": 2012,
+        "director": "Tom Hooper",
+        "descripcion": "Una adaptación del musical basado en la novela de Victor Hugo sobre Jean Valjean, un exconvicto que busca redención.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/7930e570a4de082ef009fd8cb5e2e451_480x.progressive.jpg?v=1573587313",
+        "trailer": "https://www.youtube.com/watch?v=YmvHzCLP6ug"
+      },
+      {
+        "nombre": "El fantasma de la Ópera",
+        "año": 2004,
+        "director": "Joel Schumacher",
+        "descripcion": "Una joven soprano se convierte en la obsesión de un desfigurado compositor que vive debajo de la Ópera de París.",
+        "poster": "https://i.pinimg.com/736x/9e/52/df/9e52dfade341327b42cb878a4f812024.jpg",
+        "trailer": "https://www.youtube.com/watch?v=44w6elsJr_I"
+      },
+      {
+        "nombre": "Mamma Mia!",
+        "año": 2008,
+        "director": "Phyllida Lloyd",
+        "descripcion": "La historia de una novia que intenta encontrar a su verdadero padre usando las canciones de ABBA.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/51085f5626cf9ef1dd849c0c42ea5cf6_480x.progressive.jpg?v=1573592645",
+        "trailer": "https://www.youtube.com/watch?v=8RBNHdG35WY"
+      },
+      {
+        "nombre": "Chicago",
+        "año": 2002,
+        "director": "Rob Marshall",
+        "descripcion": "La historia de dos asesinas en el Chicago de los años 20 que buscan la fama para evitar la horca.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/chicago.11x17_480x.progressive.jpg?v=1665518505",
+        "trailer": "https://www.youtube.com/watch?v=8IxcfbldgBY"
+      },
+      {
+        "nombre": "Grease",
+        "año": 1978,
+        "director": "Randal Kleiser",
+        "descripcion": "Una historia de amor de instituto entre Danny y Sandy repleta de canciones icónicas.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/e7212e2d86c2b7ad839aa3778d34da31_e874e43f-a2c9-486e-83a3-df0f13ce5469_480x.progressive.jpg?v=1573613854",
+        "trailer": "https://www.youtube.com/watch?v=yNhZNp9GXb8"
+      },
+      {
+        "nombre": "Hairspray",
+        "año": 2007,
+        "director": "Adam Shankman",
+        "descripcion": "Una adolescente persigue su sueño de aparecer en un programa de baile de televisión en Baltimore, desafiando las normas raciales de la época.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/hairspray_518ce2c7_480x.progressive.jpg?v=1628092838",
+        "trailer": "https://www.youtube.com/watch?v=SuTI48rqmsU"
+      },
+      {
+        "nombre": "Moulin Rouge",
+        "año": 2001,
+        "director": "Baz Luhrmann",
+        "descripcion": "Un poeta se enamora de una hermosa cortesana en este musical ambientado en el París de 1900.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/d5af1d04ffa4f12f8537b5ee0101b01b_bc3a93c5-8876-4870-ae5c-9110c128b053_480x.progressive.jpg?v=1573652529",
+        "trailer": "https://www.youtube.com/watch?v=dtEgAx80NC4"
+      },
+      {
+        "nombre": "West Side Story",
+        "año": 1961,
+        "director": "Robert Wise, Jerome Robbins",
+        "descripcion": "La rivalidad de dos pandillas de Nueva York se complica cuando un miembro se enamora de la hermana de un rival.",
+        "poster": "https://www.movieposters.com/cdn/shop/files/westsidestory_480x.progressive.jpg?v=1707503088",
+        "trailer": "https://www.youtube.com/watch?v=yA_aFprGzyc"
+      },
+      {
+        "nombre": "The Rocky Horror Picture Show",
+        "año": 1975,
+        "director": "Jim Sharman",
+        "descripcion": "Una pareja inocente se encuentra con una casa llena de personajes extraños liderados por un científico loco transvestido.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/3883058b245e021320f356e63cb42e3e_65073bfb-7d7b-4d8a-a83c-99779ce4374b_480x.progressive.jpg?v=1573587454",
+        "trailer": "https://www.youtube.com/watch?v=OLU2XU1LyNc"
+      },
+      {
+        "nombre": "Dreamgirls",
+        "año": 2006,
+        "director": "Bill Condon",
+        "descripcion": "La historia de un trío de cantantes femeninas que se convierten en estrellas de la música, pero a un alto costo personal.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/f52ccf871ad34c0c40499de10ea0cd44_720c66ef-a93b-418f-ac6b-b9e68262f12b_480x.progressive.jpg?v=1573585440",
+        "trailer": "https://www.youtube.com/watch?v=yK4AEkzYDIE"
+      },
+      {
+        "nombre": "Sweeney Todd: El barbero diabólico de la calle Fleet",
+        "año": 2007,
+        "director": "Tim Burton",
+        "descripcion": "Un barbero busca venganza contra aquellos que lo condenaron injustamente y arruinaron su vida.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/817eb595262f82510f786b26ce31806e_310018ba-2e5f-452b-baed-059a864f0737_480x.progressive.jpg?v=1573655006",
+        "trailer": "https://www.youtube.com/watch?v=L_hgrfZVlJA"
+      },
+      {
+        "nombre": "Annie",
+        "año": 1982,
+        "director": "John Huston",
+        "descripcion": "Una niña huérfana es adoptada por un millonario, pero su nueva vida no es lo que parece.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/b8cb585cb81d525a1ecfb69b537783fe_e1e58612-d87f-4108-988a-c9ca82c59839_480x.progressive.jpg?v=1573585463",
+        "trailer": "https://www.youtube.com/watch?v=-0bOH8ABpco"
+      },
+      {
+        "nombre": "Cabaret",
+        "año": 1972,
+        "director": "Bob Fosse",
+        "descripcion": "En el Berlín de los años 30, una cantante de cabaret y un profesor de inglés se ven atrapados en el creciente poder nazi.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/scan006_716f3e9b-6d21-4236-b49f-c77279181ac6_480x.progressive.jpg?v=1654106220",
+        "trailer": "https://www.youtube.com/watch?v=hYZ8cqMLuQg"
+      },
+      {
+        "nombre": "El mago de Oz",
+        "año": 1939,
+        "director": "Victor Fleming",
+        "descripcion": "Una joven de Kansas es arrastrada por un tornado a un mundo mágico, donde se embarca en una aventura para encontrar al mago que puede llevarla de regreso a casa.",
+        "poster": "https://www.movieposters.com/cdn/shop/products/768f09de91b460b9a11b8acd11d049c2_4f5e707f-5ca5-426e-aff2-3d8f9b1e7572_480x.progressive.jpg?v=1573588626",
+        "trailer": "https://www.youtube.com/watch?v=vnIB_p71RDE"
       }
     ]
   }
