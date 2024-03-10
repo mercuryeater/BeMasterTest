@@ -1,11 +1,15 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { setEmail, setCategories } from "../../rtk/userSlice";
+import { useDispatch, useSelector } from "react-redux";
 import logo from "@assets/beMaster2.png";
 import db from "../../../db.json";
 import "./Login.scss";
 
 export default function Login() {
   const navigate = useNavigate();
+  const dispatch = useDispatch();
+
   const validateEmail = (email) => {
     const re = /^[a-zA-Z][\w-]*(\.[\w-]+)*@([\w-]+\.)+[a-zA-Z]{2,7}$/;
     return re.test(email);
@@ -31,6 +35,8 @@ export default function Login() {
 
     console.log("Login attempt: " + JSON.stringify(loginData));
     if (user) {
+      dispatch(setEmail(email));
+      dispatch(setCategories(user.categories));
       navigate("/home");
     } else {
       setError("Email o contraseña incorrectos.");
@@ -59,7 +65,9 @@ export default function Login() {
             id="password"
             required
           />
-          <button type="submit">INICIA SESIÓN</button>
+          <button type="submit" onTouchStart="">
+            INICIA SESIÓN
+          </button>
         </form>
       </div>
     </div>
