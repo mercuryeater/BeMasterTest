@@ -1,0 +1,65 @@
+@import "@styles/mixins";
+
+.contentCategory {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__title {
+    width: 50%;
+    margin: -40px -15px -20px -15px;
+    object-fit: cover;
+  }
+
+  &__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+
+    &__card {
+      box-shadow: 0 4px 8px rgb(2, 0, 10);
+      border: 4px solid transparent;
+      overflow: hidden;
+      transition: transform 0.3s ease;
+      cursor: pointer;
+      border-radius: 10px;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+      }
+
+      &:hover {
+        transform: scale(1.03);
+        border: 4px solid rgb(3, 0, 24);
+        outline: 4px solid rgb(230, 228, 255);
+      }
+    }
+  }
+}
+
+@include Tablet() {
+  .contentCategory {
+    &__title {
+      margin: -70px -10px -60px -15px;
+    }
+
+    &__cards {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+}
+
+@include Desktop() {
+  .contentCategory {
+    &__title {
+      margin: -110px 0px -90px -15px;
+    }
+
+    &__cards {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+}

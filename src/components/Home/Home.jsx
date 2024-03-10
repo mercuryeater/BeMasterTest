@@ -18,7 +18,7 @@ export default function Home() {
         const imgUrl = getBannerImageUrl(categoryName);
         return (
           <Link
-            to={`/category/${categoryName}`}
+            to={`/categories/${categoryName}`}
             className="home__card"
             key={index}
           >
