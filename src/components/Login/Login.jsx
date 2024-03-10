@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { setEmail, setCategories } from "../../rtk/userSlice";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import logo from "@assets/beMaster2.png";
 import db from "../../../db.json";
 import "./Login.scss";
