@@ -34,6 +34,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/comedie_knzp5i.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "El Día de la Marmota",
         "año": 1993,
         "director": "Harold Ramis",
@@ -42,6 +43,7 @@
         "trailer": "https://www.youtube.com/watch?v=tSVeDx9fk60"
       },
       {
+        "id": 2,
         "nombre": "Chicas Pesadas",
         "año": 2004,
         "director": "Mark Waters",
@@ -50,6 +52,7 @@
         "trailer": "https://www.youtube.com/watch?v=_jIzqk6QCDY"
       },
       {
+        "id": 3,
         "nombre": "Vacaciones Familiares",
         "año": 1983,
         "director": "Harold Ramis",
@@ -58,6 +61,7 @@
         "trailer": "https://www.youtube.com/watch?v=_KWLcX16Gx4"
       },
       {
+        "id": 4,
         "nombre": "Los Cazafantasmas",
         "año": 1984,
         "director": "Ivan Reitman",
@@ -66,6 +70,7 @@
         "trailer": "https://www.youtube.com/watch?v=vntAEVjPBzQ"
       },
       {
+        "id": 5,
         "nombre": "Superbad",
         "año": 2007,
         "director": "Greg Mottola",
@@ -74,6 +79,7 @@
         "trailer": "https://www.youtube.com/watch?v=MNpoTxeydiY"
       },
       {
+        "id": 6,
         "nombre": "Annie Hall",
         "año": 1977,
         "director": "Woody Allen",
@@ -82,6 +88,7 @@
         "trailer": "https://www.youtube.com/watch?v=WT_xpFZe20A"
       },
       {
+        "id": 7,
         "nombre": "La Vida de Brian",
         "año": 1979,
         "director": "Terry Jones",
@@ -90,6 +97,7 @@
         "trailer": "https://www.youtube.com/watch?v=JUxii2nG6yw"
       },
       {
+        "id": 8,
         "nombre": "¿Dónde Está el Piloto?",
         "año": 1980,
         "director": "Jim Abrahams, David Zucker, Jerry Zucker",
@@ -98,6 +106,7 @@
         "trailer": "https://www.youtube.com/watch?v=yqLPOCrL7oU"
       },
       {
+        "id": 9,
         "nombre": "Shaun of the Dead",
         "año": 2004,
         "director": "Edgar Wright",
@@ -106,6 +115,7 @@
         "trailer": "https://www.youtube.com/watch?v=OMitSKT-u_k"
       },
       {
+        "id": 10,
         "nombre": "El Gran Lebowski",
         "año": 1998,
         "director": "Joel Coen, Ethan Coen",
@@ -114,6 +124,7 @@
         "trailer": "https://www.youtube.com/watch?v="
       },
       {
+        "id": 11,
         "nombre": "Ferris Bueller's Day Off",
         "año": 1986,
         "director": "John Hughes",
@@ -122,6 +133,7 @@
         "trailer": "https://www.youtube.com/watch?v=D6gABQFR94U"
       },
       {
+        "id": 12,
         "nombre": "La La Land",
         "año": 2016,
         "director": "Damien Chazelle",
@@ -130,6 +142,7 @@
         "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
       },
       {
+        "id": 13,
         "nombre": "The Hangover",
         "año": 2009,
         "director": "Todd Phillips",
@@ -138,6 +151,7 @@
         "trailer": "https://www.youtube.com/watch?v=tcdUhdOlz9M"
       },
       {
+        "id": 14,
         "nombre": "Tropic Thunder",
         "año": 2008,
         "director": "Ben Stiller",
@@ -146,6 +160,7 @@
         "trailer": "https://www.youtube.com/watch?v=T-6YhRZowgc"
       },
       {
+        "id": 15,
         "nombre": "The Grand Budapest Hotel",
         "año": 2014,
         "director": "Wes Anderson",
@@ -159,6 +174,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/horror_jreubu.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "El Exorcista",
         "año": 1973,
         "director": "William Friedkin",
@@ -167,6 +183,7 @@
         "trailer": "https://www.youtube.com/watch?v=YDGw1MTEe9k"
       },
       {
+        "id": 2,
         "nombre": "El Resplandor",
         "año": 1980,
         "director": "Stanley Kubrick",
@@ -175,6 +192,7 @@
         "trailer": "https://www.youtube.com/watch?v=5Cb3ik6zP2I"
       },
       {
+        "id": 3,
         "nombre": "Halloween",
         "año": 1978,
         "director": "John Carpenter",
@@ -183,6 +201,7 @@
         "trailer": "https://www.youtube.com/watch?v=xHuOtLTQ_1I"
       },
       {
+        "id": 4,
         "nombre": "The Babadook",
         "año": 2014,
         "director": "Jennifer Kent",
@@ -191,6 +210,7 @@
         "trailer": "https://www.youtube.com/watch?v=szaLnKNWC-U"
       },
       {
+        "id": 5,
         "nombre": "El Orfanato",
         "año": 2007,
         "director": "J.A. Bayona",
@@ -199,6 +219,7 @@
         "trailer": "https://www.youtube.com/watch?v=b3GgARokrnQ"
       },
       {
+        "id": 6,
         "nombre": "El Conjuro",
         "año": 2013,
         "director": "James Wan",
@@ -207,6 +228,7 @@
         "trailer": "https://www.youtube.com/watch?v=KyA9AtUOqRM"
       },
       {
+        "id": 7,
         "nombre": "El Conjuro 2",
         "año": 2016,
         "director": "James Wan",
@@ -215,6 +237,7 @@
         "trailer": "https://www.youtube.com/watch?v=VFsmuRPClr4"
       },
       {
+        "id": 8,
         "nombre": "It",
         "año": 2017,
         "director": "Andy Muschietti",
@@ -223,6 +246,7 @@
         "trailer": "https://www.youtube.com/watch?v=xKJmEC5ieOk"
       },
       {
+        "id": 9,
         "nombre": "El Aro",
         "año": 2002,
         "director": "Gore Verbinski",
@@ -231,6 +255,7 @@
         "trailer": "https://www.youtube.com/watch?v=zfBwQD1zPLs"
       },
       {
+        "id": 10,
         "nombre": "El Conjuro 3: El Diablo Me Obligó a Hacerlo",
         "año": 2021,
         "director": "Michael Chaves",
@@ -239,6 +264,7 @@
         "trailer": "https://www.youtube.com/watch?v=mHN0PAs8hQg"
       },
       {
+        "id": 11,
         "nombre": "Hereditary",
         "año": 2018,
         "director": "Ari Aster",
@@ -247,6 +273,7 @@
         "trailer": "https://www.youtube.com/watch?v=V6wWKNij_1M"
       },
       {
+        "id": 12,
         "nombre": "El Laberinto del Fauno",
         "año": 2006,
         "director": "Guillermo del Toro",
@@ -255,6 +282,7 @@
         "trailer": "https://www.youtube.com/watch?v=EqYiSlkvRuw"
       },
       {
+        "id": 13,
         "nombre": "El Silencio de los Corderos",
         "año": 1991,
         "director": "Jonathan Demme",
@@ -263,6 +291,7 @@
         "trailer": "https://www.youtube.com/watch?v=W6Mm8Sbe__o"
       },
       {
+        "id": 14,
         "nombre": "El Sexto Sentido",
         "año": 1999,
         "director": "M. Night Shyamalan",
@@ -271,6 +300,7 @@
         "trailer": "https://www.youtube.com/watch?v=vgZlKKS42Rk"
       },
       {
+        "id": 15,
         "nombre": "El Juego de Gerald",
         "año": 2017,
         "director": "Mike Flanagan",
@@ -284,6 +314,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092325/BeMaster/documentary_cvd2nv.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "Shoah",
         "año": 1985,
         "director": "Claude Lanzmann",
@@ -292,6 +323,7 @@
         "trailer": "https://www.youtube.com/watch?v=1JbdcEYE4zU"
       },
       {
+        "id": 2,
         "nombre": "Capturing the Friedmans",
         "año": 2003,
         "director": "Andrew Jarecki",
@@ -300,6 +332,7 @@
         "trailer": "https://www.youtube.com/watch?v=gmnzY6L_NXo"
       },
       {
+        "id": 3,
         "nombre": "Líbranos del mal (Deliver Us From Evil)",
         "año": 2006,
         "director": "Amy J. Berg",
@@ -308,6 +341,7 @@
         "trailer": "https://www.youtube.com/watch?v=dyigL0ONbxs"
       },
       {
+        "id": 4,
         "nombre": "Bowling for Columbine",
         "año": 2002,
         "director": "Michael Moore",
@@ -316,6 +350,7 @@
         "trailer": "https://www.youtube.com/watch?v=EUSo0hEhVG8"
       },
       {
+        "id": 5,
         "nombre": "My Octopus Teacher",
         "año": 2020,
         "director": "Pippa Ehrlich, James Reed",
@@ -324,6 +359,7 @@
         "trailer": "https://www.youtube.com/watch?v=3s0LTDhqe5A"
       },
       {
+        "id": 6,
         "nombre": "13th",
         "año": 2016,
         "director": "Ava DuVernay",
@@ -332,6 +368,7 @@
         "trailer": "https://www.youtube.com/watch?v=krfcq5pF8u8"
       },
       {
+        "id": 7,
         "nombre": "Won't You Be My Neighbor?",
         "año": 2018,
         "director": "Morgan Neville",
@@ -340,6 +377,7 @@
         "trailer": "https://www.youtube.com/watch?v=FhwktRDG_aQ"
       },
       {
+        "id": 8,
         "nombre": "Citizenfour",
         "año": 2014,
         "director": "Laura Poitras",
@@ -348,6 +386,7 @@
         "trailer": "https://www.youtube.com/watch?v=XiGwAvd5mvM"
       },
       {
+        "id": 9,
         "nombre": "Fahrenheit 9/11",
         "año": 2004,
         "director": "Michael Moore",
@@ -356,6 +395,7 @@
         "trailer": "https://www.youtube.com/watch?v=cebnlqi9RGQ"
       },
       {
+        "id": 10,
         "nombre": "March of the Penguins",
         "año": 2005,
         "director": "Luc Jacquet",
@@ -364,6 +404,7 @@
         "trailer": "https://www.youtube.com/watch?v=9r5Pk9JJ3JM"
       },
       {
+        "id": 11,
         "nombre": "The Act of Killing",
         "año": 2012,
         "director": "Joshua Oppenheimer",
@@ -372,6 +413,7 @@
         "trailer": "https://www.youtube.com/watch?v=SD5Bij6FjcE"
       },
       {
+        "id": 12,
         "nombre": "Blackfish",
         "año": 2013,
         "director": "Gabriela Cowperthwaite",
@@ -380,6 +422,7 @@
         "trailer": "https://www.youtube.com/watch?v=8OEjYquyjcg"
       },
       {
+        "id": 13,
         "nombre": "Supersize Me",
         "año": 2004,
         "director": "Morgan Spurlock",
@@ -388,6 +431,7 @@
         "trailer": "https://www.youtube.com/watch?v=I1Lkyb6SU5U"
       },
       {
+        "id": 14,
         "nombre": "Man on Wire",
         "año": 2008,
         "director": "James Marsh",
@@ -396,6 +440,7 @@
         "trailer": "https://www.youtube.com/watch?v=EIawNRm9NWM"
       },
       {
+        "id": 15,
         "nombre": "Jiro Dreams of Sushi",
         "año": 2011,
         "director": "David Gelb",
@@ -409,6 +454,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/fantasy_ldondy.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
         "año": 2001,
         "director": "Peter Jackson",
@@ -417,6 +463,7 @@
         "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
       },
       {
+        "id": 2,
         "nombre": "Harry Potter y la Piedra Filosofal",
         "año": 2001,
         "director": "Chris Columbus",
@@ -425,6 +472,7 @@
         "trailer": "https://www.youtube.com/watch?v=VyHV0BRtdxo"
       },
       {
+        "id": 3,
         "nombre": "La Princesa Prometida",
         "año": 1987,
         "director": "Rob Reiner",
@@ -433,6 +481,7 @@
         "trailer": "https://www.youtube.com/watch?v=VYgcrny2hRs"
       },
       {
+        "id": 4,
         "nombre": "Conan, el Bárbaro",
         "año": 1982,
         "director": "John Milius",
@@ -441,6 +490,7 @@
         "trailer": "https://www.youtube.com/watch?v=HhwWaL4YUXs"
       },
       {
+        "id": 5,
         "nombre": "Star Wars: Episodio IV - Una Nueva Esperanza",
         "año": 1977,
         "director": "George Lucas",
@@ -449,6 +499,7 @@
         "trailer": "https://www.youtube.com/watch?v=XHk5kCIiGoM"
       },
       {
+        "id": 6,
         "nombre": "Laberinto",
         "año": 1986,
         "director": "Jim Henson",
@@ -457,6 +508,7 @@
         "trailer": "https://www.youtube.com/watch?v=XRcOZZDvMv4"
       },
       {
+        "id": 7,
         "nombre": "El Viaje de Chihiro",
         "año": 2001,
         "director": "Hayao Miyazaki",
@@ -465,6 +517,7 @@
         "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
       },
       {
+        "id": 8,
         "nombre": "El Último Unicornio",
         "año": 1982,
         "director": "Jules Bass, Arthur Rankin Jr.",
@@ -473,6 +526,7 @@
         "trailer": "https://www.youtube.com/watch?v=t-UpwWauZ50"
       },
       {
+        "id": 9,
         "nombre": "El Castillo Ambulante",
         "año": 2004,
         "director": "Hayao Miyazaki",
@@ -481,6 +535,7 @@
         "trailer": "https://www.youtube.com/watch?v=iwROgK94zcM"
       },
       {
+        "id": 10,
         "nombre": "Willow",
         "año": 1988,
         "director": "Ron Howard",
@@ -489,6 +544,7 @@
         "trailer": "https://www.youtube.com/watch?v=uzgjyHT8WxI"
       },
       {
+        "id": 11,
         "nombre": "El Mago de Oz",
         "año": 1939,
         "director": "Victor Fleming",
@@ -497,6 +553,7 @@
         "trailer": "https://www.youtube.com/watch?v=82skexWKYAs"
       },
       {
+        "id": 12,
         "nombre": "El Laberinto del Fauno",
         "año": 2006,
         "director": "Guillermo del Toro",
@@ -505,6 +562,7 @@
         "trailer": "https://www.youtube.com/watch?v=EqYiSlkvRuw"
       },
       {
+        "id": 13,
         "nombre": "La Historia sin fin",
         "año": 1984,
         "director": "Wolfgang Petersen",
@@ -513,6 +571,7 @@
         "trailer": "https://www.youtube.com/watch?v=kTUxHfVmn1I"
       },
       {
+        "id": 14,
         "nombre": "Dragones y Mazmorras",
         "año": 2000,
         "director": "Courtney Solomon",
@@ -521,6 +580,7 @@
         "trailer": "https://www.youtube.com/watch?v=Y_U2tP4-9lM"
       },
       {
+        "id": 15,
         "nombre": "Cristal Oscuro",
         "año": 1982,
         "director": "Jim Henson, Frank Oz",
@@ -534,6 +594,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/animation_fv323f.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "El viaje de Chihiro",
         "año": 2001,
         "director": "Hayao Miyazaki",
@@ -542,6 +603,7 @@
         "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
       },
       {
+        "id": 2,
         "nombre": "El rey león",
         "año": 1994,
         "director": "Roger Allers, Rob Minkoff",
@@ -550,6 +612,7 @@
         "trailer": "https://www.youtube.com/watch?v=4sj1MT05lAA"
       },
       {
+        "id": 3,
         "nombre": "La tumba de las luciérnagas",
         "año": 1988,
         "director": "Isao Takahata",
@@ -558,6 +621,7 @@
         "trailer": "https://www.youtube.com/watch?v=tlGzZG3Q6y4"
       },
       {
+        "id": 4,
         "nombre": "WALL-E",
         "año": 2008,
         "director": "Andrew Stanton",
@@ -566,6 +630,7 @@
         "trailer": "https://www.youtube.com/watch?v=alIq_wG9FNk"
       },
       {
+        "id": 5,
         "nombre": "Toy Story",
         "año": 1995,
         "director": "John Lasseter",
@@ -574,6 +639,7 @@
         "trailer": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
       },
       {
+        "id": 6,
         "nombre": "Buscando a Nemo",
         "año": 2003,
         "director": "Andrew Stanton, Lee Unkrich",
@@ -582,6 +648,7 @@
         "trailer": "https://www.youtube.com/watch?v=7B_fsqoWt_4"
       },
       {
+        "id": 7,
         "nombre": "Ratatouille",
         "año": 2007,
         "director": "Brad Bird",
@@ -590,6 +657,7 @@
         "trailer": "https://www.youtube.com/watch?v=c3sBBRxDAqk"
       },
       {
+        "id": 8,
         "nombre": "Up",
         "año": 2009,
         "director": "Pete Docter, Bob Peterson",
@@ -598,6 +666,7 @@
         "trailer": "https://www.youtube.com/watch?v=pkqzFUhGPJg"
       },
       {
+        "id": 9,
         "nombre": "Zootopia",
         "año": 2016,
         "director": "Byron Howard, Rich Moore",
@@ -606,6 +675,7 @@
         "trailer": "https://www.youtube.com/watch?v=jWM0ct-OLsM"
       },
       {
+        "id": 10,
         "nombre": "Coco",
         "año": 2017,
         "director": "Lee Unkrich, Adrian Molina",
@@ -614,6 +684,7 @@
         "trailer": "https://www.youtube.com/watch?v=xlnPHQ3TLX8"
       },
       {
+        "id": 11,
         "nombre": "Shrek",
         "año": 2001,
         "director": "Andrew Adamson, Vicky Jenson",
@@ -622,6 +693,7 @@
         "trailer": "https://www.youtube.com/watch?v=ooJJX3R42WM"
       },
       {
+        "id": 12,
         "nombre": "Los Increíbles",
         "año": 2004,
         "director": "Brad Bird",
@@ -630,6 +702,7 @@
         "trailer": "https://www.youtube.com/watch?v=eZbzbC9285I"
       },
       {
+        "id": 13,
         "nombre": "Sausage Party: La fiesta más salvaje",
         "año": 2016,
         "director": "Greg Tiernan, Conrad Vernon",
@@ -638,6 +711,7 @@
         "trailer": "https://www.youtube.com/watch?v=WVAcTZKTgmc"
       },
       {
+        "id": 14,
         "nombre": "Fantástico Sr. Zorro",
         "año": 2009,
         "director": "Wes Anderson",
@@ -646,6 +720,7 @@
         "trailer": "https://www.youtube.com/watch?v=n2igjYFojUo"
       },
       {
+        "id": 15,
         "nombre": "Spider-Man: Un nuevo universo",
         "año": 2018,
         "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
@@ -659,6 +734,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092325/BeMaster/drama_gcligz.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "Forrest Gump",
         "año": 1994,
         "director": "Robert Zemeckis",
@@ -667,6 +743,7 @@
         "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg"
       },
       {
+        "id": 2,
         "nombre": "La lista de Schindler",
         "año": 1993,
         "director": "Steven Spielberg",
@@ -675,6 +752,7 @@
         "trailer": "https://www.youtube.com/watch?v=gG22XNhtnoY"
       },
       {
+        "id": 3,
         "nombre": "El Padrino",
         "año": 1972,
         "director": "Francis Ford Coppola",
@@ -683,6 +761,7 @@
         "trailer": "https://www.youtube.com/watch?v=sY1S34973zA"
       },
       {
+        "id": 4,
         "nombre": "Cadena perpetua",
         "año": 1994,
         "director": "Frank Darabont",
@@ -691,6 +770,7 @@
         "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco"
       },
       {
+        "id": 5,
         "nombre": "12 hombres sin piedad",
         "año": 1957,
         "director": "Sidney Lumet",
@@ -699,6 +779,7 @@
         "trailer": "https://www.youtube.com/watch?v=_13J_9B5jEk"
       },
       {
+        "id": 6,
         "nombre": "Gladiador",
         "año": 2000,
         "director": "Ridley Scott",
@@ -707,6 +788,7 @@
         "trailer": "https://www.youtube.com/watch?v=owK1qxDselE"
       },
       {
+        "id": 7,
         "nombre": "El club de la pelea",
         "año": 1999,
         "director": "David Fincher",
@@ -715,6 +797,7 @@
         "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
       },
       {
+        "id": 8,
         "nombre": "Salvar al soldado Ryan",
         "año": 1998,
         "director": "Steven Spielberg",
@@ -723,6 +806,7 @@
         "trailer": "https://www.youtube.com/watch?v=zwhP5b4tD6g"
       },
       {
+        "id": 9,
         "nombre": "Interstellar",
         "año": 2014,
         "director": "Christopher Nolan",
@@ -731,6 +815,7 @@
         "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
       },
       {
+        "id": 10,
         "nombre": "Amelie",
         "año": 2001,
         "director": "Jean-Pierre Jeunet",
@@ -739,6 +824,7 @@
         "trailer": "https://www.youtube.com/watch?v=HUECWi5pX7o"
       },
       {
+        "id": 11,
         "nombre": "Moonlight",
         "año": 2016,
         "director": "Barry Jenkins",
@@ -747,6 +833,7 @@
         "trailer": "https://www.youtube.com/watch?v=9NJj12tJzqc"
       },
       {
+        "id": 12,
         "nombre": "Manchester frente al mar",
         "año": 2016,
         "director": "Kenneth Lonergan",
@@ -755,6 +842,7 @@
         "trailer": "https://www.youtube.com/watch?v=gsVoD0pTge0"
       },
       {
+        "id": 13,
         "nombre": "El lobo de Wall Street",
         "año": 2013,
         "director": "Martin Scorsese",
@@ -763,6 +851,7 @@
         "trailer": "https://www.youtube.com/watch?v=iszwuX1AK6A"
       },
       {
+        "id": 14,
         "nombre": "La La Land",
         "año": 2016,
         "director": "Damien Chazelle",
@@ -771,6 +860,7 @@
         "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
       },
       {
+        "id": 15,
         "nombre": "Her",
         "año": 2013,
         "director": "Spike Jonze",
@@ -784,6 +874,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/children_vocjzy.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "Toy Story",
         "año": 1995,
         "director": "John Lasseter",
@@ -792,6 +883,7 @@
         "trailer": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
       },
       {
+        "id": 2,
         "nombre": "Monster Inc.",
         "año": 2001,
         "director": "Pete Docter, David Silverman, Lee Unkrich",
@@ -800,6 +892,7 @@
         "trailer": "https://www.youtube.com/watch?v=8IBNZ6O2kMk"
       },
       {
+        "id": 3,
         "nombre": "Buscando a Nemo",
         "año": 2003,
         "director": "Andrew Stanton",
@@ -808,6 +901,7 @@
         "trailer": "https://www.youtube.com/watch?v=wZdpNglLbt8"
       },
       {
+        "id": 4,
         "nombre": "Frozen",
         "año": 2013,
         "director": "Chris Buck, Jennifer Lee",
@@ -816,6 +910,7 @@
         "trailer": "https://www.youtube.com/watch?v=TbQm5doF_Uc"
       },
       {
+        "id": 5,
         "nombre": "El Rey León",
         "año": 1994,
         "director": "Roger Allers, Rob Minkoff",
@@ -824,6 +919,7 @@
         "trailer": "https://www.youtube.com/watch?v=4sj1MT05lAA"
       },
       {
+        "id": 6,
         "nombre": "Coco",
         "año": 2017,
         "director": "Lee Unkrich, Adrian Molina",
@@ -832,6 +928,7 @@
         "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI"
       },
       {
+        "id": 7,
         "nombre": "Cars",
         "año": 2006,
         "director": "John Lasseter, Joe Ranft",
@@ -840,6 +937,7 @@
         "trailer": "https://www.youtube.com/watch?v=SbXIj2T-_uk"
       },
       {
+        "id": 8,
         "nombre": "Mi vecino Totoro",
         "año": 1988,
         "director": "Hayao Miyazaki",
@@ -848,6 +946,7 @@
         "trailer": "https://www.youtube.com/watch?v=92a7Hj0ijLs"
       },
       {
+        "id": 9,
         "nombre": "Up",
         "año": 2009,
         "director": "Pete Docter, Bob Peterson",
@@ -856,6 +955,7 @@
         "trailer": "https://www.youtube.com/watch?v=pkqzFUhGPJg"
       },
       {
+        "id": 10,
         "nombre": "Valiente",
         "año": 2012,
         "director": "Mark Andrews, Brenda Chapman",
@@ -864,6 +964,7 @@
         "trailer": "https://www.youtube.com/watch?v=TEHWDA_6e3M"
       },
       {
+        "id": 11,
         "nombre": "La sirenita",
         "año": 1989,
         "director": "Ron Clements, John Musker",
@@ -872,6 +973,7 @@
         "trailer": "https://www.youtube.com/watch?v=ZGZX5-PAwR8"
       },
       {
+        "id": 12,
         "nombre": "Moana",
         "año": 2016,
         "director": "Ron Clements, John Musker",
@@ -880,6 +982,7 @@
         "trailer": "https://www.youtube.com/watch?v=LKFuXETZUsI"
       },
       {
+        "id": 13,
         "nombre": "Ratatouille",
         "año": 2007,
         "director": "Brad Bird",
@@ -888,6 +991,7 @@
         "trailer": "https://www.youtube.com/watch?v=c3sBBRxDAqk"
       },
       {
+        "id": 14,
         "nombre": "Wallace y Gromit: La maldición de las verduras",
         "año": 2005,
         "director": "Nick Park, Steve Box",
@@ -896,6 +1000,7 @@
         "trailer": "https://www.youtube.com/watch?v=44LIY4OqomE"
       },
       {
+        "id": 15,
         "nombre": "Paddington",
         "año": 2014,
         "director": "Paul King",
@@ -909,6 +1014,7 @@
         "banner": "https://res.cloudinary.com/dltibnft3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1710092324/BeMaster/musical_bjxpge.jpg?_s=public-apps"
       },
       {
+        "id": 1,
         "nombre": "La La Land",
         "año": 2016,
         "director": "Damien Chazelle",
@@ -917,6 +1023,7 @@
         "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
       },
       {
+        "id": 2,
         "nombre": "Los miserables",
         "año": 2012,
         "director": "Tom Hooper",
@@ -925,6 +1032,7 @@
         "trailer": "https://www.youtube.com/watch?v=YmvHzCLP6ug"
       },
       {
+        "id": 3,
         "nombre": "El fantasma de la Ópera",
         "año": 2004,
         "director": "Joel Schumacher",
@@ -933,6 +1041,7 @@
         "trailer": "https://www.youtube.com/watch?v=44w6elsJr_I"
       },
       {
+        "id": 4,
         "nombre": "Mamma Mia!",
         "año": 2008,
         "director": "Phyllida Lloyd",
@@ -941,6 +1050,7 @@
         "trailer": "https://www.youtube.com/watch?v=8RBNHdG35WY"
       },
       {
+        "id": 5,
         "nombre": "Chicago",
         "año": 2002,
         "director": "Rob Marshall",
@@ -949,6 +1059,7 @@
         "trailer": "https://www.youtube.com/watch?v=8IxcfbldgBY"
       },
       {
+        "id": 6,
         "nombre": "Grease",
         "año": 1978,
         "director": "Randal Kleiser",
@@ -957,6 +1068,7 @@
         "trailer": "https://www.youtube.com/watch?v=yNhZNp9GXb8"
       },
       {
+        "id": 7,
         "nombre": "Hairspray",
         "año": 2007,
         "director": "Adam Shankman",
@@ -965,6 +1077,7 @@
         "trailer": "https://www.youtube.com/watch?v=SuTI48rqmsU"
       },
       {
+        "id": 8,
         "nombre": "Moulin Rouge",
         "año": 2001,
         "director": "Baz Luhrmann",
@@ -973,6 +1086,7 @@
         "trailer": "https://www.youtube.com/watch?v=dtEgAx80NC4"
       },
       {
+        "id": 9,
         "nombre": "West Side Story",
         "año": 1961,
         "director": "Robert Wise, Jerome Robbins",
@@ -981,6 +1095,7 @@
         "trailer": "https://www.youtube.com/watch?v=yA_aFprGzyc"
       },
       {
+        "id": 10,
         "nombre": "The Rocky Horror Picture Show",
         "año": 1975,
         "director": "Jim Sharman",
@@ -989,6 +1104,7 @@
         "trailer": "https://www.youtube.com/watch?v=OLU2XU1LyNc"
       },
       {
+        "id": 11,
         "nombre": "Dreamgirls",
         "año": 2006,
         "director": "Bill Condon",
@@ -997,6 +1113,7 @@
         "trailer": "https://www.youtube.com/watch?v=yK4AEkzYDIE"
       },
       {
+        "id": 12,
         "nombre": "Sweeney Todd: El barbero diabólico de la calle Fleet",
         "año": 2007,
         "director": "Tim Burton",
@@ -1005,6 +1122,7 @@
         "trailer": "https://www.youtube.com/watch?v=L_hgrfZVlJA"
       },
       {
+        "id": 13,
         "nombre": "Annie",
         "año": 1982,
         "director": "John Huston",
@@ -1013,6 +1131,7 @@
         "trailer": "https://www.youtube.com/watch?v=-0bOH8ABpco"
       },
       {
+        "id": 14,
         "nombre": "Cabaret",
         "año": 1972,
         "director": "Bob Fosse",
@@ -1021,6 +1140,7 @@
         "trailer": "https://www.youtube.com/watch?v=hYZ8cqMLuQg"
       },
       {
+        "id": 15,
         "nombre": "El mago de Oz",
         "año": 1939,
         "director": "Victor Fleming",

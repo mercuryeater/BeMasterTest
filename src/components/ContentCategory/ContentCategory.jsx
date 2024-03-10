@@ -1,4 +1,5 @@
 import { useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 import db from "../../../db.json";
 import "./ContentCategory.scss";
 
@@ -24,9 +25,13 @@ export default function ContentCategory() {
 
       <main className="contentCategory__cards">
         {movies.map((movie, index) => (
-          <div className="contentCategory__cards__card" key={index}>
+          <Link
+            to={`/categories/${categoryName}/${movie.id}`}
+            className="contentCategory__cards__card"
+            key={index}
+          >
             <img src={movie.poster} alt={`Movie poster for ${movie.nombre}`} />
-          </div>
+          </Link>
         ))}
       </main>
     </div>
