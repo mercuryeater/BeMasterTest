@@ -12,7 +12,8 @@
   }
 
   &__text {
-    filter: drop-shadow(18px 5px 400px #5282d4);
+    filter: drop-shadow(18px 5px 100px #5282d4);
+    filter: -webkit-drop-shadow(18px 5px 400px #5282d4);
     margin: -20px 15px 0px 15px;
 
     &__logo {
@@ -33,6 +34,7 @@
     cursor: pointer;
     transition: border-color 0.25s;
     color: white;
+    -webkit-tap-highlight-color: transparent;
 
     &:hover {
       border-color: #dbddff;
@@ -42,7 +44,8 @@
       transform: scale(0.9);
       background-color: #0059ff7c;
       border-color: transparent;
-      color: rgba(255, 255, 255, 0.425);
+      color: rgba(83, 38, 38, 0.425);
+      outline: none;
     }
   }
 }
