@@ -37,6 +37,9 @@
   "categories": {
     "comedies": [
       {
+        "banner": "./src/assets/banners/comedie.png"
+      },
+      {
         "nombre": "El Día de la Marmota",
         "año": 1993,
         "descripcion": "Bill Murray interpreta a un meteorólogo mezquino atrapado en un bucle temporal, reviviendo el mismo día una y otra vez. La genialidad de la película radica en su ingenioso desarrollo del concepto, lleno de chistes brillantes y situaciones hilarantes."
@@ -88,6 +91,9 @@
       }
     ],
     "horror": [
+      {
+        "banner": "./src/assets/banners/horror.png"
+      },
       {
         "nombre": "El Exorcista",
         "año": 1973,
@@ -141,6 +147,9 @@
     ],
     "documentary": [
       {
+        "banner": "./src/assets/banners/documentary.png"
+      },
+      {
         "nombre": "Shoah",
         "año": 1985,
         "descripcion": "Un documental monumental dirigido por Claude Lanzmann que examina el Holocausto a través de testimonios de sobrevivientes, testigos y perpetradores."
@@ -193,6 +202,9 @@
     ],
     "fantasy": [
       {
+        "banner": "./src/assets/banners/fantasy.png"
+      },
+      {
         "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
         "año": 2001,
         "descripcion": "La primera película de la trilogía épica basada en las novelas de J.R.R. Tolkien. Sigue la aventura de Frodo y su misión para destruir el Anillo Único."
@@ -244,6 +256,9 @@
       }
     ],
     "animation": [
+      {
+        "banner": "./src/assets/banners/animation.png"
+      },
       {
         "nombre": "El viaje de Chihiro",
         "año": 2001,
