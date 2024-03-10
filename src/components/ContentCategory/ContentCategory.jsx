@@ -7,6 +7,13 @@ export default function ContentCategory() {
   const category = db.categories[categoryName];
   console.log(category);
 
+  const movies = category.filter((item, index) => {
+    if (index === 0) {
+      return false;
+    }
+    return true;
+  });
+
   return (
     <div className="contentCategory">
       <img
@@ -16,12 +23,9 @@ export default function ContentCategory() {
       />
 
       <main className="contentCategory__cards">
-        {category.map((movie, index) => (
+        {movies.map((movie, index) => (
           <div className="contentCategory__cards__card" key={index}>
-            <img
-              src="https://www.movieposters.com/cdn/shop/files/groundhogday.24x36_480x.progressive.jpg?v=1707501927"
-              alt={`Movie poster for ${movie.nombre}`}
-            />
+            <img src={movie.poster} alt={`Movie poster for ${movie.nombre}`} />
           </div>
         ))}
       </main>

@@ -4,11 +4,11 @@
   margin: 40px 20px;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 20px;
+  gap: 10px;
 
   &__card {
     background-color: rgb(29, 23, 78);
-    border-radius: 20px;
+    border-radius: 6px;
     display: flex; // Ensures the card and its content can grow
     align-items: center; // Centers the image vertically
     justify-content: center; // Centers the image horizontally
@@ -36,11 +36,20 @@
 @include Tablet() {
   .home {
     margin: 40px;
+    gap: 20px;
+
+    &__card {
+      border-radius: 12px;
+    }
   }
 }
 
 @include Desktop() {
   .home {
     margin: 40px 80px;
+
+    &__card {
+      border-radius: 18px;
+    }
   }
 }
