@@ -1,9 +1,14 @@
 .header {
+  background: #020a18;
+}
+
+.content {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  background: #020a18;
+  max-width: 1100px;
+  margin: 0 auto;
 
   &__navContainer {
     width: 100%;
@@ -77,7 +82,7 @@
 }
 
 @media (min-width: 400px) {
-  .header {
+  .content {
     &__navContainer {
       &__links {
         justify-content: flex-start;
