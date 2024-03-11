@@ -11,16 +11,22 @@ export default function ContentDetails() {
   console.log(movieDetails);
 
   return (
-    <div className="contentDetails">
-      <h2>
-        {movieDetails.nombre} ({movieDetails.año})
-      </h2>
-      <p>Director: {movieDetails.director}</p>
-      <p>Descripción: {movieDetails.descripcion}</p>
+    <main className="contentDetails">
       <img src={movieDetails.poster} alt={`Poster de ${movieDetails.nombre}`} />
-      <p>
-        <a href={movieDetails.trailer}>Ver Trailer</a>
-      </p>
-    </div>
+      <div className="contentDetails__text">
+        <h2 className="contentDetails__title">
+          {movieDetails.nombre} ({movieDetails.año})
+        </h2>
+        <h4 className="contentDetails__direction">{movieDetails.director}</h4>
+        <p className="contentDetails__description">
+          {movieDetails.descripcion}
+        </p>
+        <p>
+          <a target="_blank" href={movieDetails.trailer}>
+            Ver Trailer
+          </a>
+        </p>
+      </div>
+    </main>
   );
 }
